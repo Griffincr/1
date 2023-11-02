@@ -68,7 +68,7 @@ sudo xbps-install bspwm sxhkd xorg xinit mesa numlockx alacritty git base-devel 
 ## НАСТРОЙКА СИСТЕМЫ:
   
 [```Установка VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-uefi-install)  
-[```Автостарт и Автологин```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Autostart-window-managers)  
+[```Автостарт и Автологин```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Autostart_wm)  
 [```Установка Apparmor```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Apparmor)  
 [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
