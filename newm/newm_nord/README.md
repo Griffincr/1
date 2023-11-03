@@ -72,7 +72,7 @@ yay wlogout-git
 [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
 ## ВИДЕО:  
-[![Watch the video](https://sun9-53.userapi.com/impg/6BWkJ_rMYYu5iNStx5QYGDJ5VfyU-7QglTya5g/ZTG79MKzjco.jpg?size=450x253&quality=95&sign=edc4470111dfabbf2e02fecc0bff5d6c&type=album)](https://www.youtube.com/watch?v=7emFFIZTSS4&t=57s)  
+[![Watch the video](https://sun9-68.userapi.com/impg/rb8MMlLiqGtQ-T_JsN3CtIitR3mr7BYWgapA8Q/oOURxpjBZYI.jpg?size=450x253&quality=95&sign=e605722c0e966ae8660bdda94a3c7a4c&type=album)](https://www.youtube.com/watch?v=7emFFIZTSS4&t=57s)  
 
 ## ССЫЛКИ:  
 [<img src="https://sun9-23.userapi.com/impg/yIOnzT-OoKTRK5Y9TO0nxakCl3FnrfskMpvNhg/mgW49nlI9Qg.jpg?size=212x68&quality=95&sign=cfa966ddb53790d2cd2e68ef67d491c9&type=album" width="100">](https://www.youtube.com/@prolinux2753)
