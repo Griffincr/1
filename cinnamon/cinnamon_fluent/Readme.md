@@ -40,7 +40,6 @@ obs-studio gnome-screenshot mousepad htop cmus neofetch neovim mpv file-roller c
 |DISTRO|[ArchLinux](https://archlinux.org/)|
 | ------ | ------ |
 |DE|[Cinnamon]|
-
 |TERMINAL|[Alacritty](https://github.com/alacritty/alacritty)|
 |SHELL|[Fish](https://fishshell.com/)|
 |ICON|[Delight-orange](https://www.pling.com/p/1532276)|
