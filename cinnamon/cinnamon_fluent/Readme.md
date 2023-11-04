@@ -51,11 +51,11 @@ obs-studio gnome-screenshot mousepad htop cmus neofetch neovim mpv file-roller c
 
 ## НАСТРОЙКА СИСТЕМЫ:
   
-[```Установка VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-uefi-install)  
-[```Автостарт и Автологин```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Autostart_wm)  
-[```Установка Apparmor```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Apparmor)  
-[```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
-[```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
+- [```Установка VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-uefi-install)  
+- [```Автостарт и Автологин```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Autostart_wm)  
+- [```Установка Apparmor```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Apparmor)  
+- [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
+- [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
 ## ВИДЕО:  
 [![Watch the video](https://sun9-79.userapi.com/impg/9AV5Q_pxich9fQ_eqDYRR-K7kXm9LI_atnHIQQ/D_pjZLwoCco.jpg?size=450x253&quality=95&sign=ccb0650fde4c9e7aa118a061c38d2e52&type=album)](https://www.youtube.com/watch?v=jki9kh2WKaE&t=89s)  
