@@ -67,11 +67,11 @@ sudo xbps-install bspwm sxhkd xorg xinit mesa numlockx alacritty git base-devel 
 
 ## НАСТРОЙКА СИСТЕМЫ:
   
-[```Установка VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-uefi-install)  
-[```Автостарт и Автологин```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Autostart_wm)  
-[```Установка Apparmor```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Apparmor)  
-[```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
-[```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
+- [```Установка VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-uefi-install)  
+- [```Автостарт и Автологин```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Autostart_wm)  
+- [```Установка Apparmor```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Apparmor)  
+- [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
+- [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
 ## ВИДЕО:  
 [![Watch the video](https://sun9-53.userapi.com/impg/6BWkJ_rMYYu5iNStx5QYGDJ5VfyU-7QglTya5g/ZTG79MKzjco.jpg?size=450x253&quality=95&sign=edc4470111dfabbf2e02fecc0bff5d6c&type=album)](https://www.youtube.com/watch?v=y0BGOkzPcYA)  
