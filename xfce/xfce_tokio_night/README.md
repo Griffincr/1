@@ -58,7 +58,7 @@ tide configure
 * yay xcursor-simp1e-tokyo-night  
   
 ## НАСТРОЙКА ТЕРМИНАЛА
-* download [this](https://notabug.org/owl410/owl_dotfiles/src/master/dotfiles/xfce/xfce_tokio_night/.config/xfce4/terminal/colorschemes/tokyonight_night.theme) theme
+* download [this](https://gitlab.com/prolinux410/owl_dots/-/blob/main/xfce/xfce_tokio_night/.config/xfce4/terminal/colorschemes/tokyonight_night.theme) theme
 * mkdir -p ~/.config/xfce4/terminal/colorschemes
 * move theme to ~/.config/xfce4/terminal/colorschemes
 * change terminal setting:  
@@ -88,7 +88,7 @@ tide configure
 ## PICOM
 * yay picom-tryone-git
 * mkdir -p ~/.config/picom
-* download [this](https://notabug.org/owl410/owl_dotfiles/src/master/dotfiles/xfce/xfce_tokio_night/.config/picom/picom.conf) archive and unzip to ~/.config/picom
+* download [this](https://gitlab.com/prolinux410/owl_dots/-/blob/main/xfce/xfce_tokio_night/.config/picom/picom.conf) archive and unzip to ~/.config/picom
 * add to autostart: picom  
   
 
@@ -96,8 +96,8 @@ tide configure
 * sudo pacman - S conky jq glava cmus
 * mkdir -p ~/.config/conky
 * mkdir -p ~/.config/glava
-* download [this](https://notabug.org/owl410/owl_dotfiles/src/master/dotfiles/xfce/xfce_tokio_night/.config/conky/conky.tar.gz) archive and unzip to ~/.config/conky
-*download [this](https://notabug.org/owl410/owl_dotfiles/src/master/dotfiles/xfce/xfce_tokio_night/.config/glava/glava.tar.gz) file and move to ~/.config/glava
+* download [this](https://gitlab.com/prolinux410/owl_dots/-/blob/main/xfce/xfce_tokio_night/.config/conky/conky.tar.gz) archive and unzip to ~/.config/conky
+*download [this](https://gitlab.com/prolinux410/owl_dots/-/blob/main/xfce/xfce_tokio_night/.config/glava/glava.tar.gz) file and move to ~/.config/glava
 * add to autostart: glava --desktop
 * add to autostart: conky
 * chmod u+x ~/.config/conky/weather.sh
@@ -106,7 +106,7 @@ tide configure
 ## MICRO
 * sudo pacman - S micro
 * mkdir -p ~/.config/micro/colorshemes
-* download [this](https://notabug.org/owl410/owl_dotfiles/src/master/dotfiles/xfce/xfce_tokio_night/.config/micro/colorshemes/tokyo_night.micro) file and move to ~/.config/micro/colorshemes
+* download [this](https://gitlab.com/prolinux410/owl_dots/-/blob/main/xfce/xfce_tokio_night/.config/micro/colorshemes/tokyo_night.micro) file and move to ~/.config/micro/colorshemes
 * start micro
 * ctrl+e
 * set colorsheme tokyo_night
@@ -114,18 +114,18 @@ tide configure
 ## NEOFETCH
 * sudo pacman - S neofetch
 * mkdir -p ~/.config/neofetch
-* download [this](https://notabug.org/owl410/owl_dotfiles/src/master/dotfiles/xfce/xfce_tokio_night/.config/neofetch/config.conf) file and move to ~/.config/neofetch
+* download [this](https://gitlab.com/prolinux410/owl_dots/-/blob/main/xfce/xfce_tokio_night/.config/neofetch/config.conf) file and move to ~/.config/neofetch
   
 ## RANGER
 * sudo pacman - S ranger
 * mkdir -p ~/.config/ranger
-* download [this](https://notabug.org/owl410/owl_dotfiles/src/master/dotfiles/xfce/xfce_tokio_night/.config/ranger) archive and unzip to ~/.config/ranger
+* download [this](https://gitlab.com/prolinux410/owl_dots/-/blob/main/xfce/xfce_tokio_night/.config/ranger/ranger.tar.gz) archive and unzip to ~/.config/ranger
 * chmod u+x ~/.config/conky/scope.sh
   
 ## TELEGRAM
 * sudo pacman - S telegram-desktop
-* download [this](https://notabug.org/owl410/owl_dotfiles/src/master/dotfiles/xfce/xfce_tokio_night/telegram/TokyoNight.tdesktop-theme) file, sand message to telegram, apply sheme
-* set [this](https://notabug.org/owl410/owl_dotfiles/src/master/dotfiles/xfce/xfce_tokio_night/telegram/fon.png) fon to setting
+* download [this](https://gitlab.com/prolinux410/owl_dots/-/blob/main/xfce/xfce_tokio_night/telegram/TokyoNight.tdesktop-theme) file, sand message to telegram, apply sheme
+* set [this](https://gitlab.com/prolinux410/owl_dots/-/blob/main/xfce/xfce_tokio_night/telegram/fon.png) fon to setting
 
 ## НАСТРОЙКА СИСТЕМЫ:
   
@@ -136,7 +136,7 @@ tide configure
 [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
 ## ВИДЕО:  
-[![Watch the video](https://sun9-53.userapi.com/impg/6BWkJ_rMYYu5iNStx5QYGDJ5VfyU-7QglTya5g/ZTG79MKzjco.jpg?size=450x253&quality=95&sign=edc4470111dfabbf2e02fecc0bff5d6c&type=album)](https://www.youtube.com/watch?v=y0BGOkzPcYA)  
+[![Watch the video](https://sun9-31.userapi.com/impg/FbcXyOK4XAlxFyHEfluxE_vdsjikTg_oaoXSUg/-7OX2HtkVu8.jpg?size=450x253&quality=95&sign=6afa0c95aa85b48d71bb194ed8cd8324&type=album)](https://www.youtube.com/watch?v=FgFa-RcvCN8&lc=UgyT04YTfSJtec0yQc94AaABAg)  
 
 ## ССЫЛКИ:  
 [<img src="https://sun9-23.userapi.com/impg/yIOnzT-OoKTRK5Y9TO0nxakCl3FnrfskMpvNhg/mgW49nlI9Qg.jpg?size=212x68&quality=95&sign=cfa966ddb53790d2cd2e68ef67d491c9&type=album" width="100">](https://www.youtube.com/@prolinux2753)
