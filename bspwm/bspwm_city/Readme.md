@@ -64,11 +64,11 @@ yay cava
 
 ## НАСТРОЙКА СИСТЕМЫ:
   
-[```Установка VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-uefi-install)  
-[```Автостарт и Автологин```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Autostart_wm)  
-[```Установка Apparmor```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Apparmor)  
-[```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
-[```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
+- [```Установка VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-uefi-install)  
+- [```Автостарт и Автологин```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Autostart_wm)  
+- [```Установка Apparmor```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Apparmor)  
+- [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
+- [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
 ## ВИДЕО:  
 [![Watch the video](https://sun9-58.userapi.com/impg/wMtqITbDq6A5YPz2onKHqBpXwD1JKEPSUxMUGg/WQcWzo7xR54.jpg?size=451x253&quality=95&sign=2a55b25f4a0211da6854c2e7b5545f8c&type=album)](https://www.youtube.com/watch?v=C4t5uu5fW3I&t=139s)  
