@@ -49,7 +49,7 @@ yay cava
 # ИНФО
 
 |DISTRO|[ArchLinux](https://archlinux.org/)|
-|:---:|:---:|
+| ------ | ------ |
 |WM|[BSPWM](https://github.com/baskerville/bspwm)|
 |BAR|[Polybar](https://github.com/polybar/polybar)|
 |LAUNCHER|[rofi](https://github.com/davatorium/rofi)|
