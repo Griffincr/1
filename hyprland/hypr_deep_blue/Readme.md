@@ -13,7 +13,7 @@
 <br /><br />
 
 ## HI!:
-Я делал данный райс на VoidLinux и на ArchLinux без каких либо соседствующих DE, все настройки идут от `~/.config/hypr/themes/hypr_deep_blue/hypr/config` В первую очередь необходимо открыть этот файл и закоментировать/раскоментировать то что тебе нужно да и вообще под себя все настроить.  
+Я делал данный райс на ArchLinux без каких либо соседствующих DE, все настройки идут от `~/.config/hypr/themes/hypr_deep_blue/hypr/config` В первую очередь необходимо открыть этот файл и закоментировать/раскоментировать то что тебе нужно да и вообще под себя все настроить.  
   
 Конфиги софта и обои берутся из `~/.config/hypr/themes/hypr_deep_blue`  
 
@@ -119,9 +119,6 @@ yay cava
 - [```Установка Apparmor```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Apparmor)  
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
-
-## ВИДЕО:  
-[![Watch the video](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/hypr_arch.jpg?ref_type=heads)](https://www.youtube.com/watch?v=KKo-4ZuozUA)  
 
 ## ССЫЛКИ:  
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_youtube.png?ref_type=heads" width="100">](https://www.youtube.com/@prolinux2753)

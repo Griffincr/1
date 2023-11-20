@@ -13,7 +13,7 @@
 <br /><br />
 
 ## HI!:
-Я делал данный райс на VoidLinux и на ArchLinux без каких либо соседствующих DE, все настройки идут от `~/.config/hypr/themes/hypr_arch/hypr/config` В первую очередь необходимо открыть этот файл и закоментировать/раскоментировать то что тебе нужно да и вообще под себя все настроить.  
+Я делал данный райс на ArchLinux без каких либо соседствующих DE, все настройки идут от `~/.config/hypr/themes/hypr_arch/hypr/config` В первую очередь необходимо открыть этот файл и закоментировать/раскоментировать то что тебе нужно да и вообще под себя все настроить.  
   
 Конфиги софта и обои берутся из `~/.config/hypr/themes/hypr_arch`  
 
@@ -109,7 +109,7 @@ yay cava
 |GTK3|[Fantome](https://gitlab.com/prolinux410/owl_dots/-/raw/main/hyprland/hypr_arch/.themes)|
 |CURSORS|[Capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors)|
 |FONT|[JetBrainsMono](https://www.jetbrains.com/lp/mono/)|
-|WALL|[Тут](https://sun9-13.userapi.com/impg/4HAivprJcu-o5BQka_w2FVYbxUGEaNmNUMfmwg/_jNNZcZtXm8.jpg?size=2000x1333&quality=95&sign=61e0024e317dba62d2dd2eed68e73807&type=album)|  
+|WALL|[Тут](https://sun9-68.userapi.com/impg/xBHkIu7K2QAFmaPJCTCIfF_PIKByVg1cTbllpA/fgPYCVuk9gM.jpg?size=1920x1080&quality=95&sign=3eb301e3e9694c552be9e56546a3a3c9&type=album)|  
 
 ## НАСТРОЙКА СИСТЕМЫ:
   
