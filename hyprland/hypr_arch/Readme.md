@@ -73,9 +73,9 @@ sudo ninja -C build install
 git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
-Из ~/owl_dotfiles/dotfiles/hyprland/hypr_arch/.config скопировать все в ~/.config  
+Из ~/owl_dots/hyprland/hypr_arch/.config скопировать все в ~/.config  
 ```
-cp -r ~/owl_dotfiles/dotfiles/hyprland/hypr_arch/.config/ ~/.config
+cp -r ~/owl_dots/hyprland/hypr_arch/.config/ ~/.config
 ```
 Установка тем, иконок и курсоров:  
 ```
@@ -96,15 +96,13 @@ ttf-nerd-fonts-symbols
 
 yay cava
 ```
-  
-# ИНФО
 
+# ИНФО
 |DISTRO|[ArchLinux](https://archlinux.org/)|
 | ------ | ------ |
-|WM|[BSPWM](https://github.com/baskerville/bspwm)|
-|BAR|[Polybar](https://github.com/polybar/polybar)|
-|PICOM|[FT-Labs](https://github.com/FT-Labs/picom)|
-|LAUNCHER|[rofi](https://github.com/davatorium/rofi)|
+|WM|[Hyprland](https://hyprland.org/)|
+|BAR|[Waybar](https://github.com/Alexays/Waybar)|
+|LAUNCHER|[wofi](https://sr.ht/~scoopta/wofi/)|
 |TERMINAL|[Alacritty](https://github.com/alacritty/alacritty)|
 |SHELL|[Fish](https://fishshell.com/)|
 |ICON|[Breeze-icons-dark](https://gitlab.com/prolinux410/owl_dots/-/raw/main/hyprland/hypr_arch/.icons)|

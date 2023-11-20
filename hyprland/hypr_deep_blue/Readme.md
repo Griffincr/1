@@ -73,9 +73,9 @@ sudo ninja -C build install
 git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
-Из ~/owl_dotfiles/dotfiles/hyprland/hypr_deep_blue/.config скопировать все в ~/.config  
+Из ~/owl_dots/hyprland/hypr_deep_blue/.config скопировать все в ~/.config  
 ```
-cp -r ~/owl_dotfiles/dotfiles/hyprland/hypr_deep_blue/.config/ ~/.config
+cp -r ~/owl_dots/hyprland/hypr_deep_blue/.config/ ~/.config
 ```
 Установка тем, иконок и курсоров:  
 ```
@@ -100,17 +100,16 @@ yay cava
 # ИНФО
 |DISTRO|[ArchLinux](https://archlinux.org/)|
 | ------ | ------ |
-|WM|[BSPWM](https://github.com/baskerville/bspwm)|
-|BAR|[Polybar](https://github.com/polybar/polybar)|
-|PICOM|[FT-Labs](https://github.com/FT-Labs/picom)|
-|LAUNCHER|[rofi](https://github.com/davatorium/rofi)|
+|WM|[Hyprland](https://hyprland.org/)|
+|BAR|[Waybar](https://github.com/Alexays/Waybar)|
+|LAUNCHER|[wofi](https://sr.ht/~scoopta/wofi/)|
 |TERMINAL|[Alacritty](https://github.com/alacritty/alacritty)|
 |SHELL|[Fish](https://fishshell.com/)|
 |ICON|[Fluent](https://github.com/vinceliuice/Fluent-icon-theme)|
 |GTK3|[Flat-Remix-GTK](https://github.com/daniruiz/Flat-Remix-GTK)|
 |CURSORS|[Capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors)|
 |FONT|[JetBrainsMono](https://www.jetbrains.com/lp/mono/)|
-|WALL|[Тут](https://sun9-13.userapi.com/impg/4HAivprJcu-o5BQka_w2FVYbxUGEaNmNUMfmwg/_jNNZcZtXm8.jpg?size=2000x1333&quality=95&sign=61e0024e317dba62d2dd2eed68e73807&type=album)|  
+|WALL|[Тут](https://sun9-40.userapi.com/impg/nk07V7HekWqyF3IFO7W8bh5bN4NNuh_vi9kwOQ/Mw-s5cwD71g.jpg?size=1920x1280&quality=95&sign=a9ce408c51da5cf24063ea6e945fbbbd&type=album)|  
 
 ## НАСТРОЙКА СИСТЕМЫ:
   
