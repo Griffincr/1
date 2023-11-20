@@ -2,13 +2,13 @@
 <br />
   
 <div align="center">
-<img src="https://sun4-19.userapi.com/impg/AqvrIWlklmCnaev4ThvNdC6p5DuchcQqZwwU-g/Ihheb_xvYMc.jpg?size=1280x720&quality=95&sign=288fbcab3207d68a124c2811f6c35557&type=album" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_home/.img/photo_2023-08-09_02-34-49.jpg?ref_type=heads" width="550">
 
-<img src="https://sun9-70.userapi.com/impg/8-8Ooqxr7Dw1AAVMNgISiOZ6t4OAsqZ6eU5gmg/MxBdqwpD93o.jpg?size=1280x720&quality=95&sign=901afe95027745408672527ff2d01065&type=album" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_home/.img/photo_2023-08-09_02-34-51.jpg?ref_type=heads" width="550">
 
-<img src="https://sun9-55.userapi.com/impg/zPP8ruBqbrDoTM2zNCIDyeIGc8nXEIITb6LgKA/-zzedU1kkDo.jpg?size=1280x720&quality=95&sign=a8a60d8110b0dc6a01a6e14f40a1098d&type=album" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_home/.img/photo_2023-08-09_02-34-56.jpg?ref_type=heads" width="550">
 
-<img src="https://sun9-40.userapi.com/impg/zeHGMf4qkpgqfhroCVZG7syrCgJ7-qtwSerEjw/4ZXe0FCSHGE.jpg?size=1280x720&quality=95&sign=f8184fb08cf30a18fa326438a08d7bc3&type=album" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_home/.img/photo_2023-08-09_02-34-55.jpg?ref_type=heads" width="550">
 </div>  
 <br /><br />
 
@@ -64,14 +64,17 @@ yay cava
 ## НАСТРОЙКА СИСТЕМЫ:
   
 - [```Установка VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-uefi-install)  
+- [```Установка ArchLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/ArchLinux-uefi-install)  
 - [```Автостарт и Автологин```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Autostart_wm)  
 - [```Установка Apparmor```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Apparmor)  
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
 ## ССЫЛКИ:  
-[<img src="https://sun9-23.userapi.com/impg/yIOnzT-OoKTRK5Y9TO0nxakCl3FnrfskMpvNhg/mgW49nlI9Qg.jpg?size=212x68&quality=95&sign=cfa966ddb53790d2cd2e68ef67d491c9&type=album" width="100">](https://www.youtube.com/@prolinux2753)
+[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_youtube.png?ref_type=heads" width="100">](https://www.youtube.com/@prolinux2753)
 
-[<img src="https://sun9-53.userapi.com/impg/nwOE1vllWViBmeXHTUuER4HHJefjtvq48FD9JA/6EBqt6Vahuw.jpg?size=212x68&quality=95&sign=ef6843485ba13c583a6772e516ba7b65&type=album" width="100">](https://t.me/prolinux_tg)
+[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_tg.png?ref_type=heads" width="100">](https://t.me/prolinux_tg)
 
-[<img src="https://sun9-25.userapi.com/impg/8qdqi7ClY3p08NdNdwxtSAshdjDIu4m2p0kziQ/o_A_uhq_7hc.jpg?size=212x68&quality=95&sign=6ebc303e1c23457ee8b7db6723530ee5&type=album" width="100">](https://unsplash.com/@owl410/collections)
+[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_unsplash.png?ref_type=heads" width="100">](https://unsplash.com/@owl410/collections)  
+
+[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_coffee.png?ref_type=heads" width="100">](https://www.donationalerts.com/r/prolinux)
