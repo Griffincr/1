@@ -83,5 +83,5 @@ yay cava
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_unsplash.png?ref_type=heads" width="100">](https://unsplash.com/@owl410/collections)  
 
 
-[Угостить автора чашечкой кофе](https://www.donationalerts.com/r/prolinux)
+[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_coffee.png?ref_type=heads" width="100">](https://www.donationalerts.com/r/prolinux)
 
