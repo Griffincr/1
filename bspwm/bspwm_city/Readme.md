@@ -2,13 +2,13 @@
 <br />
   
 <div align="center">
-<img src="https://sun9-59.userapi.com/impg/vAJFC6O_v8o1OG7ry73OwhVSY5PFMtGfvN7EVw/GNeFoJ1i_Xo.jpg?size=1280x720&quality=95&sign=64af64afd538bfe1c34a13ff4f47fa02&type=album" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_city/.img/photo_2023-08-04_21-50-37.jpg?ref_type=heads" width="550">
 
-<img src="https://sun9-50.userapi.com/impg/9mIc18L-WpjJ09Yv9joPCyU7M7Yn-hh2r8tGGA/tizUHveyihI.jpg?size=1280x720&quality=95&sign=04d7679213de08448f661bc4fbb98af7&type=album" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_city/.img/photo_2023-08-04_21-50-40.jpg?ref_type=heads" width="550">
 
-<img src="https://sun9-35.userapi.com/impg/bVGWMmabmkthALWg620Krt1IvQWR-zzvHFE-Hg/n1Hf6vX70NQ.jpg?size=1280x720&quality=95&sign=4d4c63e7c14afef4aec8fdae664476d6&type=album" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_city/.img/photo_2023-08-04_21-50-33.jpg?ref_type=heads" width="550">
 
-<img src="https://sun9-51.userapi.com/impg/hoLQ-PupOy_xjWm1CGiJYXwWyuEpjSkecWF0fw/mW74dgQw14g.jpg?size=1280x720&quality=95&sign=a168199253a2c5a5d351fc3c6d207ded&type=album" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_city/.img/photo_2023-08-04_21-50-42.jpg?ref_type=heads" width="550">
 </div>  
 <br /><br />
 
@@ -76,7 +76,7 @@ yay cava
 [![Watch the video](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/bspwm_city.png?ref_type=heads)](https://www.youtube.com/watch?v=C4t5uu5fW3I&t=139s)  
 
 ## ССЫЛКИ:  
-[<https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_youtube.png?ref_type=heads" width="100">](https://www.youtube.com/@prolinux2753)
+[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_youtube.png?ref_type=heads" width="100">](https://www.youtube.com/@prolinux2753)
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_tg.png?ref_type=heads" width="100">](https://t.me/prolinux_tg)
 
