@@ -6,7 +6,7 @@
 
 <img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_nord/.img/photo_2023-08-08_17-22-22.jpg?ref_type=heads" width="550">
 
-<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_nord/.img/photo_2023-08-08_17-22-27.jpg.jpg?ref_type=heads" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_nord/.img/photo_2023-08-08_17-22-27.jpg?ref_type=heads" width="550">
 
 <img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_nord/.img/photo_2023-08-08_17-24-05.jpg?ref_type=heads" width="550">
 </div>  
