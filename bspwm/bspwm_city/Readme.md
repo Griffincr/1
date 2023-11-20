@@ -13,7 +13,7 @@
 <br /><br />
 
 ## HI!:
-Я делал данный райс на VoidLinux и на ArchLinux без каких либо соседствующих DE, все настройки идут от `~/.config/bspwm/themes/bspwm_city/bspwm/bspwmrc` В первую очередь необходимо открыть этот файл и закоментировать/раскоментировать то что тебе нужно.
+Я делал данный райс на VoidLinux и на ArchLinux без каких либо соседствующих DE, все настройки идут от `~/.config/bspwm/themes/bspwm_city/bspwm/bspwmrc` В первую очередь необходимо открыть этот файл и закоментировать/раскоментировать то что тебе нужно.  
 
   
 Конфиги bspwm sxhkd alacritty dunst picom polybar rofi и обои берутся из `~/.config/bspwm/themes/bspwm_city` 
@@ -73,7 +73,7 @@ yay cava
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
 ## ВИДЕО:  
-[![Watch the video](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/bspwm_city.jpg?ref_type=heads)](https://www.youtube.com/watch?v=C4t5uu5fW3I&t=139s)  
+[![Watch the video](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/bspwm_city.jpg?ref_type=heads)](https://www.youtube.com/watch?v=C4t5uu5fW3I)  
 
 ## ССЫЛКИ:  
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_youtube.png?ref_type=heads" width="100">](https://www.youtube.com/@prolinux2753)
