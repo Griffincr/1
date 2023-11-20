@@ -36,7 +36,7 @@ exec sxhkd -c ~/.config/bspwm/themes/bspwm_city/sxhkd/sxhkdrc &
 exec bspwm -c ~/.config/bspwm/themes/bspwm_city/bspwm/bspwmrc
 ```
   
-Установить темы и обои при помощи lxappearance и nitrogen или как тебе удобно. Заменить софт в ~/.config/bspwm/themes/bspwm_yellow/sxhkd/sxhkdrc на нужный тебе. Перезагрузится.  
+Установить темы и обои при помощи lxappearance и nitrogen или как тебе удобно. Заменить софт в ~/.config/bspwm/themes/bspwm_city/sxhkd/sxhkdrc на нужный тебе. Перезагрузится.  
 
 ## СОФТ КОТОРЫЙ Я СТАВИЛ:
 ```

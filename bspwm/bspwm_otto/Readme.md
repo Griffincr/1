@@ -12,7 +12,7 @@
 
 <img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_otto/.img/photo_2023-08-05_01-09-02.jpg?ref_type=heads" width="550">
 
-<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_otto/.img/photo_2023-08-05_01-09-02.jpg?ref_type=heads" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_otto/.img/photo_2023-08-05_01-18-02.jpg?ref_type=heads" width="550">
 
 </div>  
 <br /><br />
@@ -40,7 +40,7 @@ exec sxhkd -c ~/.config/bspwm/themes/bspwm_otto/sxhkd/sxhkdrc &
 exec bspwm -c ~/.config/bspwm/themes/bspwm_otto/bspwm/bspwmrc
 ```
   
-Установить темы и обои при помощи lxappearance и nitrogen или как тебе удобно. Заменить софт в ~/.config/bspwm/themes/bspwm_yellow/sxhkd/sxhkdrc на нужный тебе. Перезагрузится.  
+Установить темы и обои при помощи lxappearance и nitrogen или как тебе удобно. Заменить софт в ~/.config/bspwm/themes/bspwm_otto/sxhkd/sxhkdrc на нужный тебе. Перезагрузится.  
 
 ## СОФТ КОТОРЫЙ Я СТАВИЛ:
 ```
