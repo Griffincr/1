@@ -72,9 +72,6 @@ imv mpv nemo waybar grim slurp swaybg swaylock mako tar jq wofi htop cmus neofet
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
-## ВИДЕО:  
-[![Watch the video](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/hypr_arch.jpg?ref_type=heads)](https://www.youtube.com/watch?v=KKo-4ZuozUA)  
-
 ## ССЫЛКИ:  
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_youtube.png?ref_type=heads" width="100">](https://www.youtube.com/@prolinux2753)
 
