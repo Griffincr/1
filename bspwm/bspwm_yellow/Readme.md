@@ -11,8 +11,7 @@
 
 <br /><br />
 
-## HI!:
-
+## HI!
 Все настройки идут от `~/.config/bspwm/themes/bspwm_yellow/bspwm/bspwmrc` В первую очередь необходимо открыть этот файл и закоментировать/раскоментировать то что тебе нужно.  
 <br />
 Конфиги bspwm sxhkd alacritty picom polybar rofi берутся из `~/.config/bspwm/themes/bspwm_yellow`. Конфиги cmus, micro, neofetch, ranger находятся в ~/.config  

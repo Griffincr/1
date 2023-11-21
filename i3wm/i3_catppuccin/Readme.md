@@ -12,7 +12,7 @@
 </div>  
 <br /><br />
 
-## HI!:
+## HI!
 Я делал данный райс на ArchLinux без каких либо соседствующих DE, все настройки идут от `~/.config/i3/themes/catppuccin/config` В первую очередь необходимо открыть этот файл и закоментировать/раскоментировать то что тебе нужно.  
   
 Конфиги alacritty picom polybar rofi... обои берутся из `~/.config/i3/themes/catppuccin/`  
@@ -31,7 +31,6 @@ cp /etc/i3/config ~/.config/i3/config
 ```
 
 ## УСТАНОВКА ЭТОГО КОНФИГА:
-  
 Склонировать репозиторий:  
 ```
 git clone https://gitlab.com/prolinux410/owl_dots
