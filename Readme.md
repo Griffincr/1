@@ -26,12 +26,15 @@
 * [XFCE](https://gitlab.com/prolinux410/owl_dots/-/tree/main/xfce?ref_type=heads)
 
 ## ГАЛЕРЕЯ
-[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/sway/swayfx_gawr_gura/.img/photo_2023-08-12_18-03-12.jpg?ref_type=heads" width="250" align="center">](https://gitlab.com/prolinux410/owl_dots/-/tree/main/sway/swayfx_gawr_gura?ref_type=heads)
-[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/cinnamon/cinnamon_fluent/.img/2.jpg?ref_type=heads" width="250" align="center">](https://gitlab.com/prolinux410/owl_dots/-/tree/main/cinnamon/cinnamon_fluent?ref_type=heads)
-[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_yellow/.img/2.jpg?ref_type=heads" width="250" align="center">](https://gitlab.com/prolinux410/owl_dots/-/tree/main/bspwm/bspwm_yellow?ref_type=heads)
-[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/i3wm/i3_Star_Wars/img/photo_2023-07-07_02-16-38.jpg?ref_type=heads" width="250" align="center">](https://gitlab.com/prolinux410/owl_dots/-/tree/main/i3wm/i3_Star_Wars?ref_type=heads)
-[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/sway/sway_fedora/.img/photo_2023-08-18_20-20-20.jpg?ref_type=heads" width="250" align="center">](https://gitlab.com/prolinux410/owl_dots/-/tree/main/sway/sway_fedora?ref_type=heads)
-[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/xfce/xfce_tokio_night/.img/src_2.jpg?ref_type=heads" width="250" align="center">](https://gitlab.com/prolinux410/owl_dots/-/tree/main/xfce/xfce_tokio_night?ref_type=heads)
+[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/sway/swayfx_gawr_gura/.img/photo_2023-08-12_18-03-12.jpg?ref_type=heads" width="350" align="center">](https://gitlab.com/prolinux410/owl_dots/-/tree/main/sway/swayfx_gawr_gura?ref_type=heads)
+[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/cinnamon/cinnamon_fluent/.img/2.jpg?ref_type=heads" width="350" align="center">](https://gitlab.com/prolinux410/owl_dots/-/tree/main/cinnamon/cinnamon_fluent?ref_type=heads)
+[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_yellow/.img/2.jpg?ref_type=heads" width="350" align="center">](https://gitlab.com/prolinux410/owl_dots/-/tree/main/bspwm/bspwm_yellow?ref_type=heads)
+
+<br /><br />
+
+[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/i3wm/i3_Star_Wars/img/photo_2023-07-07_02-16-38.jpg?ref_type=heads" width="350" align="center">](https://gitlab.com/prolinux410/owl_dots/-/tree/main/i3wm/i3_Star_Wars?ref_type=heads)
+[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/sway/sway_fedora/.img/photo_2023-08-18_20-20-20.jpg?ref_type=heads" width="350" align="center">](https://gitlab.com/prolinux410/owl_dots/-/tree/main/sway/sway_fedora?ref_type=heads)
+[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/xfce/xfce_tokio_night/.img/src_2.jpg?ref_type=heads" width="350" align="center">](https://gitlab.com/prolinux410/owl_dots/-/tree/main/xfce/xfce_tokio_night?ref_type=heads)
 
 ## ДРУГИЕ РЕСУРСЫ:
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_youtube.png?ref_type=heads" width="100">](https://www.youtube.com/@prolinux2753)
