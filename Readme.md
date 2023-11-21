@@ -15,7 +15,7 @@
 ## DOTFILES:
 * [BSPWM](https://gitlab.com/prolinux410/owl_dots/-/tree/main/bspwm?ref_type=heads)
 * [CINNAMON](https://gitlab.com/prolinux410/owl_dots/-/tree/main/cinnamon?ref_type=heads)
-  [DWM](--)
+* [DWM](--)
 * [HYPRLAND](https://gitlab.com/prolinux410/owl_dots/-/tree/main/hyprland?ref_type=heads)
 * [I3WM](https://gitlab.com/prolinux410/owl_dots/-/tree/main/i3wm?ref_type=heads)
 * [LabWc](https://gitlab.com/prolinux410/owl_dots/-/tree/main/labwc?ref_type=heads)
