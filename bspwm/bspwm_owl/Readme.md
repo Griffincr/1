@@ -52,7 +52,6 @@ yay cava
 | ------ | ------ |
 |WM|[BSPWM](https://github.com/baskerville/bspwm)|
 |BAR|[Polybar](https://github.com/polybar/polybar)|
-|PICOM|[FT-Labs](https://github.com/FT-Labs/picom)|
 |LAUNCHER|[rofi](https://github.com/davatorium/rofi)|
 |TERMINAL|[Alacritty](https://github.com/alacritty/alacritty)|
 |SHELL|[Fish](https://fishshell.com/)|
