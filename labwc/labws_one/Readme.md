@@ -1,4 +1,4 @@
-## HYPRLAND ARCH
+## LABWC ONE
 <br />
   
 <div align="center">
