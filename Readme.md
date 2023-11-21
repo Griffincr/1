@@ -30,7 +30,7 @@
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/cinnamon/cinnamon_fluent/.img/2.jpg?ref_type=heads" width="350" align="center">](https://gitlab.com/prolinux410/owl_dots/-/tree/main/cinnamon/cinnamon_fluent?ref_type=heads)
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_yellow/.img/2.jpg?ref_type=heads" width="350" align="center">](https://gitlab.com/prolinux410/owl_dots/-/tree/main/bspwm/bspwm_yellow?ref_type=heads)
 
-<br /><br />
+<br />
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/i3wm/i3_Star_Wars/img/photo_2023-07-07_02-16-38.jpg?ref_type=heads" width="350" align="center">](https://gitlab.com/prolinux410/owl_dots/-/tree/main/i3wm/i3_Star_Wars?ref_type=heads)
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/sway/sway_fedora/.img/photo_2023-08-18_20-20-20.jpg?ref_type=heads" width="350" align="center">](https://gitlab.com/prolinux410/owl_dots/-/tree/main/sway/sway_fedora?ref_type=heads)
