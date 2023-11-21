@@ -2,11 +2,9 @@
 <br />
   
 <div align="center">
-<img src="https://sun9-33.userapi.com/impg/1HBl4mvMeN11ccmxQfPiqC0hzFk7pFd7S_G0Kw/g4gT-dXWkzM.jpg?size=1920x1080&quality=95&sign=99b6705e832932df7d7984d008167715&type=album" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_yellow/.img/1.jpg?ref_type=heads" width="550">
 
-<br />
-
-<img src="https://sun9-77.userapi.com/impg/_q0hsIRbOOp6PBsYNTENKaFnwxtdRu6llTPOQQ/YiLG_Gs3xec.jpg?size=1920x1080&quality=95&sign=07017a06daa6796603f3114688da2a7c&type=album" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_yellow/.img/2.jpg?ref_type=heads" width="550">
 </div>  
 
 <br /><br />
