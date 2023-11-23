@@ -13,7 +13,7 @@
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
 ## DEFAULT SOFT CONFIG RUS:
-* [WAYFIRE](https://gitlab.com/prolinux410/owl_dots/-/tree/main/_soft config_/wayfire.ini?ref_type=heads)
+* [WAYFIRE](https://gitlab.com/prolinux410/owl_dots/-/blob/main/_soft%20config_/wayfire.ini)
 
 ## DOTFILES:
 * [BSPWM](https://gitlab.com/prolinux410/owl_dots/-/tree/main/bspwm?ref_type=heads)
