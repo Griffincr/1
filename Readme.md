@@ -12,6 +12,9 @@
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
+## DEFAULT SOFT CONFIG RUS:
+* [WAYFIRE](https://gitlab.com/prolinux410/owl_dots/-/tree/main/_soft config_/wayfire.ini?ref_type=heads)
+
 ## DOTFILES:
 * [BSPWM](https://gitlab.com/prolinux410/owl_dots/-/tree/main/bspwm?ref_type=heads)
 * [CINNAMON](https://gitlab.com/prolinux410/owl_dots/-/tree/main/cinnamon?ref_type=heads)
