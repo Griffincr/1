@@ -2,13 +2,13 @@
 <br />
   
 <div align="center">
-<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/i3wm/i3_one/img/1.jpg?ref_type=heads" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/i3wm/i3_one/.img/1.jpg?ref_type=heads" width="550">
 
-<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/i3wm/i3_one/img/2.jpg?ref_type=heads" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/i3wm/i3_one/.img/2.jpg?ref_type=heads" width="550">
 
-<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/i3wm/i3_one/img/3.jpg?ref_type=heads" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/i3wm/i3_one/.img/3.jpg?ref_type=heads" width="550">
 
-<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/i3wm/i3_one/img/4.jpg?ref_type=heads" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/i3wm/i3_one/.img/4.jpg?ref_type=heads" width="550">
 </div>  
 <br /><br />
 

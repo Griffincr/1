@@ -1,4 +1,4 @@
-# BSPWM YELLOW  
+# CINNAMON FLUENT
 <br />
   
 <div align="center">
