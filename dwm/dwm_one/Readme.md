@@ -91,7 +91,7 @@ yay cava
 |WALL|[Тут](https://sun9-6.userapi.com/impg/d0ZUUjnMMhUzvDDSkLLtpI51NJiMqNrcQHq4iA/GbYnbLRGmcY.jpg?size=2560x1704&quality=95&sign=2956e11c8c59306b8cef882c0791b4f6&type=album)|  
 
 ## ВИДЕО
-[![Watch the video](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/dwm.jpg?ref_type=heads)](https://www.youtube.com/watch?v=xA4_W1fEZvc)
+[![Watch the video](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/dwm_one.jpg?ref_type=heads)](https://www.youtube.com/watch?v=svu4EEVroak)
 
 
 ## НАСТРОЙКА СИСТЕМЫ
