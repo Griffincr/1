@@ -15,7 +15,7 @@
 ## HI!
 Я делал данный райс на ArchLinux без каких либо соседствующих DE, все конфиги в ~/.config стандартно, с путями я ничего не делал. Этот райс достаточно минималистичный как и в прочем сам DWM, каких то рофей и пикомов я не прикручивал.
 
-[Обзор и установка DWM](https://www.youtube.com/watch?v=xA4_W1fEZvc)
+[Обзор и установка DWM](https://www.youtube.com/watch?v=xA4_W1fEZvc)<br />
 [Dwm-blocks и Dwm-flexipatch](https://www.youtube.com/watch?v=8anqoGmjUA0)
   
 
