@@ -9,7 +9,7 @@
 <img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/labwc/labws_one/.img/labws_3.jpg?ref_type=heads" width="550">
 
 <img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/labwc/labws_one/.img/labws_4.jpg?ref_type=heads" width="550">
-</div>  
+</div>
 <br /><br />
 
 
@@ -25,14 +25,14 @@ cp -r /usr/share/doc/labwc .config/
 labwc - для того что бы запустить
 ```
 
-## УСТАНОВКА ЭТОГО КОНФИГА:
+## УСТАНОВКА ЭТОГО КОНФИГА
 
-Склонировать репозиторий:  
+Склонировать репозиторий:
 ```
 git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
-Из ~/owl_dots/labwc/labws_one/.config скопировать все в ~/.config  
+Из ~/owl_dots/labwc/labws_one/.config скопировать все в ~/.config
 ```
 cp -r ~/owl_dots/labwc/labws_one/.config/ ~/.config
 ```
@@ -63,7 +63,7 @@ sudo pacman -S pulseaudio pavucontrol firefox telegram-desktop gimp inkscape ble
 |FONT|[JetBrainsMono](https://www.jetbrains.com/lp/mono/)|
 |WALL|[Тут](https://sun9-55.userapi.com/impg/yBe54wO-4kiyNj_6REmmNEX9Oe3BtXlo-XFCnA/rRajwYZgsJI.jpg?size=1920x1200&quality=95&sign=c17718a609cbd622e7b07b9efa9ba3d1&type=album)|  
 
-## НАСТРОЙКА СИСТЕМЫ:
+## НАСТРОЙКА СИСТЕМЫ
   
 - [```Установка VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-uefi-install)  
 - [```Установка ArchLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/ArchLinux-uefi-install)  
@@ -72,15 +72,15 @@ sudo pacman -S pulseaudio pavucontrol firefox telegram-desktop gimp inkscape ble
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
-## ВИДЕО:  
-[![Watch the video](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/labws_one.jpg?ref_type=heads)](https://www.youtube.com/watch?v=Y1TlAbSd92w)  
+## ВИДЕО
+[![Watch the video](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/labws_one.jpg?ref_type=heads)](https://www.youtube.com/watch?v=Y1TlAbSd92w)
 
 ## ССЫЛКИ:  
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_youtube.png?ref_type=heads" width="100">](https://www.youtube.com/@prolinux2753)
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_tg.png?ref_type=heads" width="100">](https://t.me/prolinux_tg)
 
-[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_unsplash.png?ref_type=heads" width="100">](https://unsplash.com/@owl410/collections)  
+[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_unsplash.png?ref_type=heads" width="100">](https://unsplash.com/@owl410/collections)
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_coffee.png?ref_type=heads" width="100">](https://www.donationalerts.com/r/prolinux)
 

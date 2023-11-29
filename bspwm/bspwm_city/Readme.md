@@ -17,9 +17,9 @@
   
 Конфиги bspwm sxhkd alacritty dunst picom polybar rofi и обои берутся из `~/.config/bspwm/themes/bspwm_city`  
 
-## УСТАНОВКА ЭТОГО КОНФИГА:
+## УСТАНОВКА ЭТОГО КОНФИГА
   
-Склонировать репозиторий:  
+Склонировать репозиторий:
 ```
 git clone https://gitlab.com/prolinux410/owl_dots
 ```
@@ -37,7 +37,7 @@ exec bspwm -c ~/.config/bspwm/themes/bspwm_city/bspwm/bspwmrc
   
 Установить темы и обои при помощи lxappearance и nitrogen или как тебе удобно. Заменить софт в ~/.config/bspwm/themes/bspwm_city/sxhkd/sxhkdrc на нужный тебе. Перезагрузится.  
 
-## СОФТ КОТОРЫЙ Я СТАВИЛ:
+## СОФТ КОТОРЫЙ Я СТАВИЛ
 ```
 sudo pacman -S pulseaudio pavucontrol firefox inkscape blender telegram-desktop viewnior
 obs-studio nemo htop links cmus neofetch scrot ranger neovim mpv unzip polybar fish picom rofi
@@ -60,7 +60,7 @@ yay cava
 |FONT|[JetBrainsMono](https://www.jetbrains.com/lp/mono/)|
 |WALL|[Тут](https://sun9-13.userapi.com/impg/4HAivprJcu-o5BQka_w2FVYbxUGEaNmNUMfmwg/_jNNZcZtXm8.jpg?size=2000x1333&quality=95&sign=61e0024e317dba62d2dd2eed68e73807&type=album)|  
 
-## НАСТРОЙКА СИСТЕМЫ:
+## НАСТРОЙКА СИСТЕМЫ
   
 - [```Установка VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-uefi-install)  
 - [```Установка ArchLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/ArchLinux-uefi-install)  
@@ -69,10 +69,10 @@ yay cava
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
-## ВИДЕО:  
+## ВИДЕО
 [![Watch the video](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/bspwm_city.jpg?ref_type=heads)](https://www.youtube.com/watch?v=C4t5uu5fW3I)  
 
-## ССЫЛКИ:  
+## ССЫЛКИ
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_youtube.png?ref_type=heads" width="100">](https://www.youtube.com/@prolinux2753)
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_tg.png?ref_type=heads" width="100">](https://t.me/prolinux_tg)

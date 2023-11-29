@@ -20,19 +20,19 @@
 
 <br />
 
-## УСТАНОВКА ЭТОГО КОНФИГА:
+## УСТАНОВКА ЭТОГО КОНФИГА
   
-Склонировать репозиторий:  
+Склонировать репозиторий:
 ```
 git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
-Из ~/owl_dots/bspwm/bspwm_yellow/.config скопировать все в ~/.config:  
+Из ~/owl_dots/bspwm/bspwm_yellow/.config скопировать все в ~/.config:
 ```
 cp -r ~/owl_dots/bspwm/bspwm_yellow/.config/ ~/.config
 ```
   
-В ~/.xinitrc прописать:  
+В ~/.xinitrc прописать:
 ```
 exec sxhkd -c ~/.config/bspwm/themes/bspwm_yellow/sxhkd/sxhkdrc &  
 exec bspwm -c ~/.config/bspwm/themes/bspwm_yellow/bspwm/bspwmrc
@@ -40,7 +40,7 @@ exec bspwm -c ~/.config/bspwm/themes/bspwm_yellow/bspwm/bspwmrc
   
 Установить темы и обои при помощи lxappearance и nitrogen или как тебе удобно. Заменить софт в ~/.config/bspwm/themes/bspwm_yellow/sxhkd/sxhkdrc на нужный тебе. Перезагрузится.  
 
-## СОФТ КОТОРЫЙ Я СТАВИЛ:
+## СОФТ КОТОРЫЙ Я СТАВИЛ
   
 ```
 sudo xbps-install bspwm sxhkd xorg xinit mesa numlockx alacritty git base-devel firefox inkscape ghostscript blender telegram-desktop viewnior obs obs-plugin-browser-bin nemo htop links cmus cava neofetch scrot ranger neovim mpv unzip file-roller polybar rofi fish-shell picom conky nerd-fonts-symbols-ttf jq lxappearance nitrogen
@@ -62,7 +62,7 @@ sudo xbps-install bspwm sxhkd xorg xinit mesa numlockx alacritty git base-devel 
 |FONT|[JetBrainsMono](https://www.jetbrains.com/lp/mono/)|
 |WALL|[Тут](https://sun9-69.userapi.com/impg/EVQoeIxRyFHdZNKtQSZbGu-0ZmdaiZ_9z_1HVA/gUEFjEpVxlM.jpg?size=1920x1080&quality=95&sign=460da962d6f836338ae7beaa54fff333&type=album)|  
 
-## НАСТРОЙКА СИСТЕМЫ:
+## НАСТРОЙКА СИСТЕМЫ
   
 - [```Установка VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-uefi-install)  
 - [```Установка ArchLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/ArchLinux-uefi-install)  
@@ -71,16 +71,15 @@ sudo xbps-install bspwm sxhkd xorg xinit mesa numlockx alacritty git base-devel 
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
-## ВИДЕО:  
-[![Watch the video](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/bspwm_yellow.jpg?ref_type=heads)](https://www.youtube.com/watch?v=y0BGOkzPcYA)  
+## ВИДЕО
+[![Watch the video](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/bspwm_yellow.jpg?ref_type=heads)](https://www.youtube.com/watch?v=y0BGOkzPcYA)
 
-## ССЫЛКИ:  
+## ССЫЛКИ
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_youtube.png?ref_type=heads" width="100">](https://www.youtube.com/@prolinux2753)
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_tg.png?ref_type=heads" width="100">](https://t.me/prolinux_tg)
 
-[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_unsplash.png?ref_type=heads" width="100">](https://unsplash.com/@owl410/collections)  
-
+[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_unsplash.png?ref_type=heads" width="100">](https://unsplash.com/@owl410/collections)
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_coffee.png?ref_type=heads" width="100">](https://www.donationalerts.com/r/prolinux)
 

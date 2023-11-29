@@ -17,19 +17,19 @@
   
 Конфиги bspwm sxhkd alacritty dunst picom polybar rofi и обои берутся из `~/.config/bspwm/themes/bspwm_gura`  
 
-## УСТАНОВКА ЭТОГО КОНФИГА:
+## УСТАНОВКА ЭТОГО КОНФИГА
   
-Склонировать репозиторий:  
+Склонировать репозиторий:
 ```
 git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
-Из ~/owl_dots/bspwm/bspwm_gura/.config скопировать все в ~/.config:  
+Из ~/owl_dots/bspwm/bspwm_gura/.config скопировать все в ~/.config:
 ```
 cp -r ~/owl_dots/bspwm/bspwm_gura/.config/ ~/.config
 ```
   
-В ~/.xinitrc прописать:  
+В ~/.xinitrc прописать:
 ```
 exec sxhkd -c ~/.config/bspwm/themes/bspwm_gura/sxhkd/sxhkdrc &  
 exec bspwm -c ~/.config/bspwm/themes/bspwm_gura/bspwm/bspwmrc
@@ -37,7 +37,7 @@ exec bspwm -c ~/.config/bspwm/themes/bspwm_gura/bspwm/bspwmrc
   
 Установить темы и обои при помощи lxappearance и nitrogen или как тебе удобно. Заменить софт в ~/.config/bspwm/themes/bspwm_gura/sxhkd/sxhkdrc на нужный тебе. Перезагрузится.  
 
-## СОФТ КОТОРЫЙ Я СТАВИЛ:
+## СОФТ КОТОРЫЙ Я СТАВИЛ
 ```
 sudo pacman -S pulseaudio pavucontrol firefox inkscape blender telegram-desktop viewnior
 obs-studio nemo htop links cmus neofetch scrot ranger neovim mpv unzip polybar fish picom rofi
@@ -61,7 +61,7 @@ yay cava
 |WALL_1|[Тут](https://sun9-39.userapi.com/impg/jR_L7iCYNjfrp80tigYJsgPKopoXkP8nCQuwUA/dK1EFlTOkMw.jpg?size=1920x1080&quality=95&sign=e0d7c5715a547a870f7d8fc8159e83b1&type=album)|
 |WALL_2|[Тут](https://sun9-51.userapi.com/impg/26NX1ME94T0nv8yU4VMHBNXayXlb5g6YPCfWOA/YXBuhZ7oV3c.jpg?size=1920x1080&quality=95&sign=2d7a71519fef6afbc62047a3f7aa5848&type=album)|  
 
-## НАСТРОЙКА СИСТЕМЫ:
+## НАСТРОЙКА СИСТЕМЫ
   
 - [```Установка VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-uefi-install)  
 - [```Установка ArchLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/ArchLinux-uefi-install)  
@@ -70,7 +70,7 @@ yay cava
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
-## ССЫЛКИ:  
+## ССЫЛКИ
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_youtube.png?ref_type=heads" width="100">](https://www.youtube.com/@prolinux2753)
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_tg.png?ref_type=heads" width="100">](https://t.me/prolinux_tg)

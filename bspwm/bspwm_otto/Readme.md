@@ -14,7 +14,7 @@
 
 <img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/bspwm/bspwm_otto/.img/photo_2023-08-05_01-18-02.jpg?ref_type=heads" width="550">
 
-</div>  
+</div>
 <br /><br />
 
 ## HI!
@@ -22,19 +22,19 @@
   
 Конфиги bspwm sxhkd alacritty dunst picom polybar rofi и обои берутся из `~/.config/bspwm/themes/bspwm_otto` 
   
-## УСТАНОВКА ЭТОГО КОНФИГА:
+## УСТАНОВКА ЭТОГО КОНФИГА
   
-Склонировать репозиторий:  
+Склонировать репозиторий:
 ```
 git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
-Из ~/owl_dots/bspwm/bspwm_otto/.config скопировать все в ~/.config:  
+Из ~/owl_dots/bspwm/bspwm_otto/.config скопировать все в ~/.config:
 ```
 cp -r ~/owl_dots/bspwm/bspwm_otto/.config/ ~/.config
 ```
   
-В ~/.xinitrc прописать:  
+В ~/.xinitrc прописать:
 ```
 exec sxhkd -c ~/.config/bspwm/themes/bspwm_otto/sxhkd/sxhkdrc &  
 exec bspwm -c ~/.config/bspwm/themes/bspwm_otto/bspwm/bspwmrc
@@ -42,7 +42,7 @@ exec bspwm -c ~/.config/bspwm/themes/bspwm_otto/bspwm/bspwmrc
   
 Установить темы и обои при помощи lxappearance и nitrogen или как тебе удобно. Заменить софт в ~/.config/bspwm/themes/bspwm_otto/sxhkd/sxhkdrc на нужный тебе. Перезагрузится.  
 
-## СОФТ КОТОРЫЙ Я СТАВИЛ:
+## СОФТ КОТОРЫЙ Я СТАВИЛ
 ```
 sudo pacman -S pulseaudio pavucontrol firefox inkscape blender telegram-desktop viewnior
 obs-studio nemo htop links cmus neofetch scrot ranger neovim mpv unzip polybar fish picom rofi
@@ -66,7 +66,7 @@ yay cava
 |FONT|[JetBrainsMono](https://www.jetbrains.com/lp/mono/)|
 |WALL|[Тут](https://sun9-35.userapi.com/impg/Yg_qJKRyPmg8Q31-IJXKhxw-bemZBR7-vFfhGA/wNjUjHvEP3M.jpg?size=1920x1280&quality=95&sign=81ef48cf372b3cf7b832821bf93f348d&type=album)|  
 
-## НАСТРОЙКА СИСТЕМЫ:
+## НАСТРОЙКА СИСТЕМЫ
   
 - [```Установка VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-uefi-install)  
 - [```Установка ArchLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/ArchLinux-uefi-install)  
@@ -75,16 +75,15 @@ yay cava
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
-## ВИДЕО:  
+## ВИДЕО
 [![Watch the video](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/bspwm_otto.jpg?ref_type=heads)](https://www.youtube.com/watch?v=q3PzH3QG2UA)  
 
-## ССЫЛКИ:  
+## ССЫЛКИ
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_youtube.png?ref_type=heads" width="100">](https://www.youtube.com/@prolinux2753)
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_tg.png?ref_type=heads" width="100">](https://t.me/prolinux_tg)
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_unsplash.png?ref_type=heads" width="100">](https://unsplash.com/@owl410/collections)  
-
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_coffee.png?ref_type=heads" width="100">](https://www.donationalerts.com/r/prolinux)
 

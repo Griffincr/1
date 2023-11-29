@@ -9,13 +9,13 @@
 <img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/i3wm/i3_one/.img/3.jpg?ref_type=heads" width="550">
 
 <img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/i3wm/i3_one/.img/4.jpg?ref_type=heads" width="550">
-</div>  
+</div>
 <br /><br />
 
 ## HI!
 Я делал данный райс на ArchLinux без каких либо соседствующих DE, все настройки идут от `~/.config/i3/themes/i3_one/config` В первую очередь необходимо открыть этот файл и закоментировать/раскоментировать то что тебе нужно.  
   
-Конфиги alacritty picom polybar rofi... обои берутся из `~/.config/i3/themes/i3_one/`  
+Конфиги alacritty picom polybar rofi... обои берутся из `~/.config/i3/themes/i3_one/`
 
 ## УСТАНОВКА I3WM НА ARCH
   
@@ -30,25 +30,25 @@ mkdir -p ~/.config/i3/
 cp /etc/i3/config ~/.config/i3/config 
 ```
 
-## УСТАНОВКА ЭТОГО КОНФИГА:
-Склонировать репозиторий:  
+## УСТАНОВКА ЭТОГО КОНФИГА
+Склонировать репозиторий:
 ```
 git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
-Из ~/owl_dots/i3wm/i3_catppuccin/.config скопировать все в ~/.config:  
+Из ~/owl_dots/i3wm/i3_catppuccin/.config скопировать все в ~/.config:
 ```
 cp -r ~/owl_dots/i3wm/i3_one/.config/ ~/.config
 ```
   
-В ~/.xinitrc прописать:  
+В ~/.xinitrc прописать:
 ```
 exec i3 -c ~/.config/i3/themes/i3_one/config
 ```
   
-Установить темы и обои при помощи lxappearance и nitrogen или как тебе удобно. Перезагрузится. Темы для софта лежат в ~/owl_dots/i3wm/i3_one/soft_themes  
+Установить темы и обои при помощи lxappearance и nitrogen или как тебе удобно. Перезагрузится. Темы для софта лежат в ~/owl_dots/i3wm/i3_one/soft_themes
   
-## СОФТ КОТОРЫЙ Я СТАВИЛ:
+## СОФТ КОТОРЫЙ Я СТАВИЛ
 ```
 sudo pacman -S pulseaudio pavucontrol firefox inkscape blender telegram-desktop viewnior
 obs-studio nemo htop links cmus neofetch scrot ranger neovim mpv unzip polybar fish picom rofi
@@ -72,7 +72,7 @@ yay cava
 |FONT|[JetBrainsMono](https://www.jetbrains.com/lp/mono/)|
 |WALL|[Тут](https://sun9-6.userapi.com/impg/d0ZUUjnMMhUzvDDSkLLtpI51NJiMqNrcQHq4iA/GbYnbLRGmcY.jpg?size=2560x1704&quality=95&sign=2956e11c8c59306b8cef882c0791b4f6&type=album)|  
 
-## НАСТРОЙКА СИСТЕМЫ:
+## НАСТРОЙКА СИСТЕМЫ
   
 - [```Установка VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-uefi-install)  
 - [```Установка ArchLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/ArchLinux-uefi-install)  
@@ -81,12 +81,12 @@ yay cava
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
-## ССЫЛКИ:  
+## ССЫЛКИ
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_youtube.png?ref_type=heads" width="100">](https://www.youtube.com/@prolinux2753)
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_tg.png?ref_type=heads" width="100">](https://t.me/prolinux_tg)
 
-[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_unsplash.png?ref_type=heads" width="100">](https://unsplash.com/@owl410/collections)  
+[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_unsplash.png?ref_type=heads" width="100">](https://unsplash.com/@owl410/collections)
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_coffee.png?ref_type=heads" width="100">](https://www.donationalerts.com/r/prolinux)
 

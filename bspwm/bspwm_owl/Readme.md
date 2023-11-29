@@ -17,19 +17,19 @@
   
 Конфиги bspwm sxhkd alacritty dunst picom polybar rofi и обои берутся из `~/.config/bspwm/themes/bspwm_owl` 
   
-## УСТАНОВКА ЭТОГО КОНФИГА:
+## УСТАНОВКА ЭТОГО КОНФИГА
   
-Склонировать репозиторий:  
+Склонировать репозиторий:
 ```
 git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
-Из ~/owl_dots/bspwm/bspwm_owl/.config скопировать все в ~/.config:  
+Из ~/owl_dots/bspwm/bspwm_owl/.config скопировать все в ~/.config:
 ```
 cp -r ~/owl_dots/bspwm/bspwm_owl/.config/ ~/.config
 ```
   
-В ~/.xinitrc прописать:  
+В ~/.xinitrc прописать:
 ```
 exec sxhkd -c ~/.config/bspwm/themes/bspwm_owl/sxhkd/sxhkdrc &  
 exec bspwm -c ~/.config/bspwm/themes/bspwm_owl/bspwm/bspwmrc
@@ -37,7 +37,7 @@ exec bspwm -c ~/.config/bspwm/themes/bspwm_owl/bspwm/bspwmrc
   
 Установить темы и обои при помощи lxappearance и nitrogen или как тебе удобно. Заменить софт в ~/.config/bspwm/themes/bspwm_owl/sxhkd/sxhkdrc на нужный тебе. Перезагрузится.  
 
-## СОФТ КОТОРЫЙ Я СТАВИЛ:
+## СОФТ КОТОРЫЙ Я СТАВИЛ
 ```
 sudo pacman -S pulseaudio pavucontrol firefox inkscape blender telegram-desktop viewnior
 obs-studio nemo htop links cmus neofetch scrot ranger neovim mpv unzip polybar fish picom rofi
@@ -61,7 +61,7 @@ yay cava
 |FONT|[JetBrainsMono](https://www.jetbrains.com/lp/mono/)|
 |WALL|[Тут](https://sun9-50.userapi.com/impg/SuO0bDuuMq1_Trs2uuPgfGAIXJi-gU0XSuTwFA/k3lDonNeQ04.jpg?size=1920x1152&quality=95&sign=36169d305d0b93cbf5078b3b9aa1f4d9&type=album)|  
 
-## НАСТРОЙКА СИСТЕМЫ:
+## НАСТРОЙКА СИСТЕМЫ
   
 - [```Установка VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-uefi-install)  
 - [```Установка ArchLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/ArchLinux-uefi-install)  
@@ -70,13 +70,12 @@ yay cava
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
-## ССЫЛКИ:  
+## ССЫЛКИ
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_youtube.png?ref_type=heads" width="100">](https://www.youtube.com/@prolinux2753)
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_tg.png?ref_type=heads" width="100">](https://t.me/prolinux_tg)
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_unsplash.png?ref_type=heads" width="100">](https://unsplash.com/@owl410/collections)  
-
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_coffee.png?ref_type=heads" width="100">](https://www.donationalerts.com/r/prolinux)
 

@@ -127,7 +127,7 @@ tide configure
 * download [this](https://gitlab.com/prolinux410/owl_dots/-/blob/main/xfce/xfce_tokio_night/telegram/TokyoNight.tdesktop-theme) file, sand message to telegram, apply sheme
 * set [this](https://gitlab.com/prolinux410/owl_dots/-/blob/main/xfce/xfce_tokio_night/telegram/fon.png) fon to setting
 
-## НАСТРОЙКА СИСТЕМЫ:
+## НАСТРОЙКА СИСТЕМЫ
   
 - [```Установка VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-uefi-install)  
 - [```Установка ArchLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/ArchLinux-uefi-install)  
@@ -136,15 +136,15 @@ tide configure
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
-## ВИДЕО:  
-[![Watch the video](https://sun9-31.userapi.com/impg/FbcXyOK4XAlxFyHEfluxE_vdsjikTg_oaoXSUg/-7OX2HtkVu8.jpg?size=450x253&quality=95&sign=6afa0c95aa85b48d71bb194ed8cd8324&type=album)](https://www.youtube.com/watch?v=FgFa-RcvCN8&lc=UgyT04YTfSJtec0yQc94AaABAg)  
+## ВИДЕО
+[![Watch the video](https://sun9-31.userapi.com/impg/FbcXyOK4XAlxFyHEfluxE_vdsjikTg_oaoXSUg/-7OX2HtkVu8.jpg?size=450x253&quality=95&sign=6afa0c95aa85b48d71bb194ed8cd8324&type=album)](https://www.youtube.com/watch?v=FgFa-RcvCN8&lc=UgyT04YTfSJtec0yQc94AaABAg)
 
 ## ССЫЛКИ:  
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_youtube.png?ref_type=heads" width="100">](https://www.youtube.com/@prolinux2753)
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_tg.png?ref_type=heads" width="100">](https://t.me/prolinux_tg)
 
-[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_unsplash.png?ref_type=heads" width="100">](https://unsplash.com/@owl410/collections)  
+[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_unsplash.png?ref_type=heads" width="100">](https://unsplash.com/@owl410/collections)
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_coffee.png?ref_type=heads" width="100">](https://www.donationalerts.com/r/prolinux)
 

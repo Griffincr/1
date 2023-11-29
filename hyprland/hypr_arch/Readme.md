@@ -9,13 +9,13 @@
 <img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/hyprland/hypr_arch/.img/photo_2023-08-17_20-55-59.jpg?ref_type=heads" width="550">
 
 <img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/hyprland/hypr_arch/.img/photo_2023-08-17_20-56-03.jpg?ref_type=heads" width="550">
-</div>  
+</div>
 <br /><br />
 
 ## HI!
 Я делал данный райс на ArchLinux без каких либо соседствующих DE, все настройки идут от `~/.config/hypr/themes/hypr_arch/hypr/config` В первую очередь необходимо открыть этот файл и закоментировать/раскоментировать то что тебе нужно да и вообще под себя все настроить.  
   
-Конфиги софта и обои берутся из `~/.config/hypr/themes/hypr_arch`  
+Конфиги софта и обои берутся из `~/.config/hypr/themes/hypr_arch`
 
 ## УСТАНОВКА HYPRLAND
 ```
@@ -66,18 +66,18 @@ sudo ninja -C build install
 Можно так же из реп поставить или из аура. Я ставил из реп, вроде все пофиксили и все норм.
 ```
 
-## УСТАНОВКА ЭТОГО КОНФИГА:
+## УСТАНОВКА ЭТОГО КОНФИГА
   
-Склонировать репозиторий:  
+Склонировать репозиторий:
 ```
 git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
-Из ~/owl_dots/hyprland/hypr_arch/.config скопировать все в ~/.config  
+Из ~/owl_dots/hyprland/hypr_arch/.config скопировать все в ~/.config
 ```
 cp -r ~/owl_dots/hyprland/hypr_arch/.config/ ~/.config
 ```
-Установка тем, иконок и курсоров:  
+Установка тем, иконок и курсоров:
 ```
 gsettings set org.gnome.desktop.interface icon-theme breeze-icons-dark  
 gsettings set org.gnome.desktop.interface gtk-theme Fantome
@@ -87,7 +87,7 @@ gsettings set org.gnome.desktop.interface cursor-theme capitaine-cursors
 В ~/.config/hypr/hyprland.conf заинклюженна ссылка на конфиг,
 потому что я не знаю как сделать по другому) Точнее знаю но мне проверять лень)
 
-## СОФТ КОТОРЫЙ Я СТАВИЛ:
+## СОФТ КОТОРЫЙ Я СТАВИЛ
 ```
 sudo pacman -S pulseaudio pavucontrol firefox telegram-desktop mousepad gimp inkscape  
 blender ghostscript obs-studio xdg-desktop-portal-wlr transmission-gtk python  
@@ -111,7 +111,7 @@ yay cava
 |FONT|[JetBrainsMono](https://www.jetbrains.com/lp/mono/)|
 |WALL|[Тут](https://sun9-68.userapi.com/impg/xBHkIu7K2QAFmaPJCTCIfF_PIKByVg1cTbllpA/fgPYCVuk9gM.jpg?size=1920x1080&quality=95&sign=3eb301e3e9694c552be9e56546a3a3c9&type=album)|  
 
-## НАСТРОЙКА СИСТЕМЫ:
+## НАСТРОЙКА СИСТЕМЫ
   
 - [```Установка VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-uefi-install)  
 - [```Установка ArchLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/ArchLinux-uefi-install)  
@@ -120,15 +120,15 @@ yay cava
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
-## ВИДЕО:  
-[![Watch the video](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/hypr_arch.jpg?ref_type=heads)](https://www.youtube.com/watch?v=KKo-4ZuozUA)  
+## ВИДЕО
+[![Watch the video](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/hypr_arch.jpg?ref_type=heads)](https://www.youtube.com/watch?v=KKo-4ZuozUA)
 
-## ССЫЛКИ:  
+## ССЫЛКИ
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_youtube.png?ref_type=heads" width="100">](https://www.youtube.com/@prolinux2753)
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_tg.png?ref_type=heads" width="100">](https://t.me/prolinux_tg)
 
-[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_unsplash.png?ref_type=heads" width="100">](https://unsplash.com/@owl410/collections)  
+[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_unsplash.png?ref_type=heads" width="100">](https://unsplash.com/@owl410/collections)
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_coffee.png?ref_type=heads" width="100">](https://www.donationalerts.com/r/prolinux)
 

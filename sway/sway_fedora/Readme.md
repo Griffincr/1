@@ -9,13 +9,13 @@
 <img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/sway/sway_fedora/.img/photo_2023-08-18_20-20-24.jpg?ref_type=heads" width="550">
 
 <img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/sway/sway_fedora/.img/photo_2023-08-18_20-20-26.jpg?ref_type=heads" width="550">
-</div>  
+</div>
 <br /><br />
 
 ## HI!
 Я делал данный райс на Fedora без каких либо соседствующих DE, все настройки идут от `~/.config/sway/themes/sway_fedora/sway` В первую очередь необходимо открыть этот файл и закоментировать/раскоментировать то что тебе нужно да и вообще под себя все настроить.  
   
-Конфиги софта и обои берутся из `~/.config/sway/themes/sway_fedora`  
+Конфиги софта и обои берутся из `~/.config/sway/themes/sway_fedora`
 
 ## УСТАНОВКА SWAY
 ```
@@ -30,20 +30,20 @@ export MOZ_ENABLE_WAYLAND=1
 export QT_QPA_PLATFORM=wayland
 ```
 
-## УСТАНОВКА ЭТОГО КОНФИГА:
+## УСТАНОВКА ЭТОГО КОНФИГА
   
-Склонировать репозиторий:  
+Склонировать репозиторий:
 ```
 git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
-Из ~/owl_dots/sway/sway_fedora/.config скопировать все в ~/.config  
+Из ~/owl_dots/sway/sway_fedora/.config скопировать все в ~/.config
 ```
 cp -r ~/owl_dots/sway/sway_fedora/.config/ ~/.config
 ```
 Запустить данный sway можно командой sway -c .config/sway/themes/sway_fedora/sway
 
-## СОФТ КОТОРЫЙ Я СТАВИЛ:
+## СОФТ КОТОРЫЙ Я СТАВИЛ
 ```
 sudo dnf install pulseaudio pavucontrol firefox telegram-desktop mousepad gimp inkscape  
 blender ghostscript obs-studio xdg-desktop-portal-wlr transmission-gtk python  
@@ -63,7 +63,7 @@ imv mpv nemo waybar grim slurp swaybg swaylock mako tar jq wofi htop cmus neofet
 |FONT|[JetBrainsMono](https://www.jetbrains.com/lp/mono/)|
 |WALL|[Тут](https://sun9-63.userapi.com/impg/FxKBSIt9K20TGGlbyRKI_qbIhE7DiP_SFXwcSg/43u3c7gXRoc.jpg?size=2560x1701&quality=95&sign=0d4c9977e5a1b4a034fb3a00ee170ddc&type=album)|  
 
-## НАСТРОЙКА СИСТЕМЫ:
+## НАСТРОЙКА СИСТЕМЫ
   
 - [```Установка VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-uefi-install)  
 - [```Установка ArchLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/ArchLinux-uefi-install)  
@@ -72,12 +72,12 @@ imv mpv nemo waybar grim slurp swaybg swaylock mako tar jq wofi htop cmus neofet
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
-## ССЫЛКИ:  
+## ССЫЛКИ
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_youtube.png?ref_type=heads" width="100">](https://www.youtube.com/@prolinux2753)
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_tg.png?ref_type=heads" width="100">](https://t.me/prolinux_tg)
 
-[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_unsplash.png?ref_type=heads" width="100">](https://unsplash.com/@owl410/collections)  
+[<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_unsplash.png?ref_type=heads" width="100">](https://unsplash.com/@owl410/collections)
 
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_coffee.png?ref_type=heads" width="100">](https://www.donationalerts.com/r/prolinux)
 
