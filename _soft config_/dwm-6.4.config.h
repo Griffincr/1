@@ -7,17 +7,6 @@ static const int showbar            = 1;        /* 0 не показывать �
 static const int topbar             = 1;        /* 0 панель внизу */
 static const char *fonts[]          = { "JetBrainsMono:style=Bold:size=10", "Symbols Nerd Font:size=10" };        /* шрифт бара*/
 static const char dmenufont[]       = "JetBrainsMono-Bold:size=10";            /* шрифт dmenu*/
-
-/* Для патча dwm-barpadding */
-static const int vertpad            = 10;       /* vertical padding of bar */
-static const int sidepad            = 12;       /* horizontal padding of bar */
-
-/* Для патча dwm-fullgaps-6.4 */
-static const unsigned int gappx     = 12;       /* gap p1ixel between windows */
-
-/* Для патча dwm-bar-height-spacing, который у меня не заработал */
-static const int user_bh            = 10;        /* 0 means that dwm will calculate bar height, >= 1 means dwm will user_bh as bar height */
-
 static const char col_gray1[]       = "#23252e";        /* цвет col_gray1 */
 static const char col_gray2[]       = "#fafbfc";        /* цвет col_gray2 */
 static const char col_gray3[]       = "#fafbfc";        /* цвет col_gray3 */
