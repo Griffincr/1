@@ -51,7 +51,7 @@ yay cava
 |BAR|[DwmBar](--)|
 |LAUNCHER|[Dmenu](https://tools.suckless.org/dmenu/)|
 |TERMINAL|[Kitty](https://sw.kovidgoyal.net/kitty/)|
-|SHELL|[Bash](https://fishshell.com/)|
+|SHELL|[Bash]|
 |ICON|[Papirus-Bluegrey-Folders](https://www.pling.com/p/1166289)|
 |GTK3|[Breeze-gtk](https://github.com/KDE/breeze-gtk)|
 |CURSORS|[Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors)|
