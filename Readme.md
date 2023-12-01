@@ -14,6 +14,7 @@
 
 ## DEFAULT SOFT CONFIG RUS:
 * [WAYFIRE](https://gitlab.com/prolinux410/owl_dots/-/blob/main/_soft%20config_/wayfire.ini)
+* [DWM](https://gitlab.com/prolinux410/owl_dots/-/blob/main/_soft%20config_/dwm-6.4.config.h)
 
 ## DOTFILES:
 * [BSPWM](https://gitlab.com/prolinux410/owl_dots/-/tree/main/bspwm?ref_type=heads)
