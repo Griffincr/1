@@ -50,7 +50,7 @@ yay cava
 |WM|[DWM](https://dwm.suckless.org/)|
 |BAR|[DwmBar](--)|
 |LAUNCHER|[Dmenu](https://tools.suckless.org/dmenu/)|
-|TERMINAL|[Alacritty](https://github.com/alacritty/alacritty)|
+|TERMINAL|[Kitty](https://sw.kovidgoyal.net/kitty/)|
 |SHELL|[Bash](https://fishshell.com/)|
 |ICON|[Papirus-Bluegrey-Folders](https://www.pling.com/p/1166289)|
 |GTK3|[Breeze-gtk](https://github.com/KDE/breeze-gtk)|
