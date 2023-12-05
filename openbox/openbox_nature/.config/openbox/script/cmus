@@ -1,0 +1,11 @@
+#!/bin/sh
+
+cmus () {
+    if ps -C cmus > /dev/null; then
+        TRACK=$(echo -n $(cmus-remote -C 'format_print %F'))
+	ICON=""
+        printf "%s %s" "$ICON" "$TRACK"
+    fi
+}
+
+cmus
