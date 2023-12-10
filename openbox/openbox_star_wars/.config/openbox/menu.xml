@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openbox_menu xmlns="http://openbox.org/3.4/menu">
+
+<menu id="apps-audio-menu" label="Audio" icon='/home/owl/.config/openbox/icons/mult.svg'>
+  <item label="Audacity" icon='/home/owl/.config/openbox/icons/audacity.svg'><action name="Execute"><command>audacity</command></action></item>
+  <item label="Lmms" icon='/home/owl/.config/openbox/icons/lmms.svg'><action name="Execute"><command>lmms</command></action></item>
+  <item label="Hydrogen" icon='/home/owl/.config/openbox/icons/hydrogen.svg'><action name="Execute"><command>hydrogen</command></action></item>
+
+  <separator />
+
+  <item label="Pavucontrol" icon='/home/owl/.config/openbox/icons/pav.svg'><action name="Execute"><command>pavucontrol</command></action></item>
+  <item label="OBS" icon='/home/owl/.config/openbox/icons/OBS.svg'><action name="Execute"><command>obs</command></action></item>
+</menu>
+
+
+<menu id="apps-graphics-menu" label="Graphics" icon='/home/owl/.config/openbox/icons/graph.svg'>
+  <item label="Gimp" icon='/home/owl/.config/openbox/icons/gimp.svg'><action name="Execute"><command>gimp</command></action></item>
+  <item label="Inkscape" icon='/home/owl/.config/openbox/icons/inkscape.svg'><action name="Execute"><command>inkscape</command></action></item>
+  <item label="Blender" icon='/home/owl/.config/openbox/icons/blender.svg'><action name="Execute"><command>blender</command></action></item>
+
+  <separator />
+
+  <item label="Scrot" icon='/home/owl/.config/openbox/icons/scrot.svg'><action name="Execute"><command>scrot</command></action></item>
+  <item label="Scrot 5s" icon='/home/owl/.config/openbox/icons/scrot.svg'><action name="Execute"><command>scrot -d 5</command></action></item>
+</menu>
+
+
+<menu id="apps-soft-menu" label="Soft" icon='/home/owl/.config/openbox/icons/square.svg'>
+  <item label="Lutris" icon='/home/owl/.config/openbox/icons/steam.svg'><action name="Execute"><command>lutris</command></action></item>
+  <item label="Virt-Manager" icon='/home/owl/.config/openbox/icons/vbox.svg'><action name="Execute"><command>virt-manager</command></action></item>
+</menu>
+
+
+<menu id="system-menu" label="System" icon='/home/owl/.config/openbox/icons/sys.svg'>
+  <item label="Lxappearance" icon='/home/owl/.config/openbox/icons/obconf.svg'><action name="Execute"><command>lxappearance</command></action></item>
+  <item label="Nitrigen" icon='/home/owl/.config/openbox/icons/nitrogen.svg'><action name="Execute"><command>nitrogen</command></action></item>
+  <item label="Tint2conf" icon='/home/owl/.config/openbox/icons/tint2.svg'><action name="Execute"><command>tint2conf</command></action></item>
+
+  <separator />
+
+  <item label="Reconfigure Openbox" icon='/home/owl/.config/openbox/icons/restart.svg'><action name="Reconfigure" /></item>
+</menu>
+
+
+<menu id="root-menu" label="Openbox 3"><separator label="MENU" />
+
+
+  <item label="Alacritty" icon='/home/owl/.config/openbox/icons/terminal.svg'>
+    <action name="Execute">
+      <command>alacritty</command>
+    </action>
+  </item>
+  <item label="Nemo" icon='/home/owl/.config/openbox/icons/nemo.svg'>
+    <action name="Execute">
+      <command>nemo</command>
+    </action>
+  </item>
+  <item label="Firefox" icon='/home/owl/.config/openbox/icons/firefox.svg'>
+    <action name="Execute">
+      <command>firefox</command>
+      <startupnotify>
+        <enabled>yes</enabled>
+        <wmclass>Firefox</wmclass>
+      </startupnotify>
+    </action>
+  </item>
+  <item label="Telegram" icon='/home/owl/.config/openbox/icons/telegram.svg'>
+    <action name="Execute">
+      <command>telegram-desktop</command>
+    </action>
+  </item>
+
+  <separator />
+  <menu id="apps-audio-menu"/>
+  <menu id="apps-graphics-menu"/>
+  <menu id="apps-soft-menu"/>
+  <menu id="apps-fileman-menu"/>
+  <menu id="system-menu"/>
+  <separator />
+  <item label="Log Out" icon='/home/owl/.config/openbox/icons/logout.svg'><action name="Exit"><prompt>yes</prompt></action></item>
+  <item label="Reboot" icon='/home/owl/.config/openbox/icons/restart.svg'><action name="Execute"><command>reboot</command></action></item>
+  <item label="Poweroff" icon='/home/owl/.config/openbox/icons/power.svg'><action name="Execute"><command>poweroff</command></action></item>
+</menu>
+
+</openbox_menu>

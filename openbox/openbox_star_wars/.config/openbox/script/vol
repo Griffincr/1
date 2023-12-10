@@ -1,0 +1,4 @@
+#!/bin/bash
+vol="$(amixer -c 1 -M -D pulse get Master | tail -n1 | sed -r 's/.*\[(.*)%\].*/\1/')"
+icon="  "
+printf "%s %s \\n" "$icon""$vol%"   
