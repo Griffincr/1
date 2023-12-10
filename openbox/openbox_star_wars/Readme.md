@@ -63,7 +63,6 @@ lxappearance nitrogen numlockx viewnior mousepad rofi plank libwnck lightdm conk
 yay cava picom-ftlabs
 ```
 
-
 # ИНФО
 |DISTRO|[ArchLinux](https://archlinux.org/)|
 | ------ | ------ |
