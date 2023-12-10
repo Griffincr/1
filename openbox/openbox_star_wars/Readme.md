@@ -48,9 +48,6 @@ cp -r ~/owl_dots/openbox/openbox_star_wars/.config/ ~/.config
 ```
   
 Установить темы и обои при помощи lxappearance и nitrogen или как тебе удобно. Перезагрузится.
-Тему иконок я правил, взял тему Delight и прикрутил иконки каталогов из la-capitaine-icon-theme.
-  
-Автостарт у меня не взлетел так что стартуется все из .xinitrc  
 
 [Видео по установке Openbox](https://www.youtube.com/watch?v=mYAOaEdY-rs&t=24s)  
 [Видео по настройке Openbox](https://www.youtube.com/watch?v=8a0Ue0PnZs4)
