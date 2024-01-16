@@ -11,6 +11,7 @@
 - [```Установка Apparmor```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Apparmor)  
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
+- [```Calculate cl-install```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Calculate-cl-install)  
 
 ## DEFAULT SOFT CONFIG RUS:
 * [WAYFIRE](https://gitlab.com/prolinux410/owl_dots/-/blob/main/_soft%20config_/wayfire.ini)
@@ -19,13 +20,13 @@
 ## DOTFILES:
 * [BSPWM](https://gitlab.com/prolinux410/owl_dots/-/tree/main/bspwm?ref_type=heads)
 * [CINNAMON](https://gitlab.com/prolinux410/owl_dots/-/tree/main/cinnamon?ref_type=heads)
-* [DWM](--)
+* [DWM](https://gitlab.com/prolinux410/owl_dots/-/tree/main/dwm)
 * [HYPRLAND](https://gitlab.com/prolinux410/owl_dots/-/tree/main/hyprland?ref_type=heads)
 * [I3WM](https://gitlab.com/prolinux410/owl_dots/-/tree/main/i3wm?ref_type=heads)
 * [LabWc](https://gitlab.com/prolinux410/owl_dots/-/tree/main/labwc?ref_type=heads)
 * [NEWM](https://gitlab.com/prolinux410/owl_dots/-/tree/main/newm?ref_type=heads)
-* [OPENBOX](--)
-* [QTILE](--)
+* [OPENBOX](https://gitlab.com/prolinux410/owl_dots/-/tree/main/openbox)
+* [QTILE](https://gitlab.com/prolinux410/owl_dots/-/tree/main/qtile)
 * [SWAY](https://gitlab.com/prolinux410/owl_dots/-/tree/main/sway?ref_type=heads)
 * [XFCE](https://gitlab.com/prolinux410/owl_dots/-/tree/main/xfce?ref_type=heads)
 
