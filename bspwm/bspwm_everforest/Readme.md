@@ -71,7 +71,7 @@ sudo xbps-install bspwm sxhkd xorg xinit mesa numlockx alacritty git base-devel 
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 
 ## ВИДЕО
-[![Watch the video](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/bspwm_yellow.jpg?ref_type=heads)](https://www.youtube.com/watch?v=y0BGOkzPcYA)
+[![Watch the video](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/bspwm_everforest.jpg?ref_type=heads)](https://www.youtube.com/watch?v=1nrjHsZzEiA)
 
 ## ССЫЛКИ
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_youtube.png?ref_type=heads" width="100">](https://www.youtube.com/@prolinux2753)
