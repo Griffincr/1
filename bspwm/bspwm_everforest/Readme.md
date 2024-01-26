@@ -54,7 +54,7 @@ sudo xbps-install bspwm sxhkd xorg xinit mesa numlockx alacritty git base-devel 
 |LAUNCHER|[rofi](https://github.com/davatorium/rofi)|
 |TERMINAL|[Alacritty](https://github.com/alacritty/alacritty)|
 |SHELL|[Fish](https://fishshell.com/)|
-|ICON|[Everforest]](https://www.gnome-look.org/p/1695476)|
+|ICON|[Everforest](https://www.gnome-look.org/p/1695476)|
 |GTK3|[Everforest](https://github.com/sainnhe/everforest)|
 |CURSORS|[Capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors)|
 |FONT|[JetBrainsMono](https://www.jetbrains.com/lp/mono/)|
