@@ -2,13 +2,17 @@
 <br />
   
 <div align="center">
-<img src="1" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/hyprland/hypr_void/.img/1.jpg" width="550">
 
-<img src="2" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/hyprland/hypr_void/.img/2.jpg" width="550">
 
-<img src="3" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/hyprland/hypr_void/.img/3.jpg" width="550">
 
-<img src="4" width="550">
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/hyprland/hypr_void/.img/4.jpg" width="550">
+
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/hyprland/hypr_void/.img/5.jpg" width="550">
+
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/hyprland/hypr_void/.img/6.jpg" width="550">
 </div>
 <br /><br />
 
@@ -33,11 +37,15 @@ cp -r ~/owl_dots/hyprland/hypr_void/.config/ ~/.config
 ```
 Установка тем, иконок и курсоров:
 ```
-gsettings set org.gnome.desktop.interface icon-theme breeze-icons-dark  
-gsettings set org.gnome.desktop.interface gtk-theme Fantome
+gsettings set org.gnome.desktop.interface icon-theme Everforest-Dark
+gsettings set org.gnome.desktop.interface gtk-theme Everforest-Dark-B
 gsettings set org.gnome.desktop.interface cursor-theme capitaine-cursors
 ```
-
+Отключение кнопок управления окном в gtk
+```
+gsettings set org.gnome.desktop.wm.preferences button-layout :
+```
+  
 В ~/.config/hypr/hyprland.conf заинклюженна ссылка на конфиг,
 потому что я не знаю как сделать по другому) Точнее знаю но мне проверять лень)
 
@@ -45,11 +53,8 @@ gsettings set org.gnome.desktop.interface cursor-theme capitaine-cursors
 ```
 sudo xbps-install -S micro ranger neofetch cava cmus htop grim firefox telegram-desktop
  nemo imv mpv wofi blender gimp inkscape ghostscript nerd-fonts-symbols-ttf fish-shell
- file-roller obs obs-plugin-browser-bin
-
-
-pulseaudio pavucontrol mousepad transmission-gtk python  
-waybar swaybg swaylock mako jq
+ file-roller obs obs-plugin-browser-bin curl jq swaybg gedit slurp guitarix2 calf ardour
+ lmms hydrogen musescore
 ```
 
 # ИНФО
@@ -60,11 +65,13 @@ waybar swaybg swaylock mako jq
 |LAUNCHER|[wofi](https://sr.ht/~scoopta/wofi/)|
 |TERMINAL|[Alacritty](https://github.com/alacritty/alacritty)|
 |SHELL|[Fish](https://fishshell.com/)|
-|ICON|[--](--)|
-|GTK3|[--](--)|
+|ICON|[Everforest](https://www.gnome-look.org/p/1695476)|
+|GTK3|[Everforest](https://github.com/Fausto-Korpsvart/Everforest-GTK-Theme)|
 |CURSORS|[--](--)|
 |FONT|[JetBrainsMono](https://www.jetbrains.com/lp/mono/)|
-|WALL|[Тут](--)|  
+|WALL_1|[Тут](https://sun9-9.userapi.com/impg/gF5bGwzcv4KqVnKGnVYl29hz50QywEESn6I4OQ/Cc_nnp2dbNY.jpg?size=1920x1080&quality=95&sign=bde29ef33d97a2c26fa983084ee7b254&type=album)|  
+|WALL_2|[Тут](https://sun9-78.userapi.com/impg/f0BOThV_rdA4UX9bGryawYNaQLKvd7JviCVZ_Q/tkCWTz0_iGU.jpg?size=1920x1080&quality=95&sign=12b3003cd077a93a7a20f7da0bed81a4&type=album)|  
+|WALL_3|[Тут](https://sun9-46.userapi.com/impg/cFovyc4-B6hlQF7UT-Jnaa0644J9FRojd_uJdg/7LEvpkcUxTc.jpg?size=1920x1080&quality=95&sign=6e09bc406aec2fb62f04b802bf8a97d6&type=album)|  
 
 ## НАСТРОЙКА СИСТЕМЫ
   
@@ -74,7 +81,8 @@ waybar swaybg swaylock mako jq
 - [```Установка Apparmor```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Apparmor)  
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
-
+- [```Установка Hyprland в VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-Hyprland)  
+  
 ## ВИДЕО
 [![Watch the video](--)](--)
 
