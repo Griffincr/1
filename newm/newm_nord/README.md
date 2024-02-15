@@ -74,6 +74,7 @@ yay wlogout-git
 - [```Установка Apparmor```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Apparmor)  
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
+- [```VoidLinux Wayland WM```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-Wayland-WM)  
 
 ## ВИДЕО
 [![Watch the video](https://sun9-68.userapi.com/impg/rb8MMlLiqGtQ-T_JsN3CtIitR3mr7BYWgapA8Q/oOURxpjBZYI.jpg?size=450x253&quality=95&sign=e605722c0e966ae8660bdda94a3c7a4c&type=album)](https://www.youtube.com/watch?v=7emFFIZTSS4&t=57s)

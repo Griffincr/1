@@ -78,6 +78,7 @@ yay cava
 - [```Установка Apparmor```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Apparmor)  
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
+- [```VoidLinux Wayland WM```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-Wayland-WM)  
 
 ## ВИДЕО
 [![Watch the video](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/swayfx_gura.jpg?ref_type=heads)](https://www.youtube.com/watch?v=GPKe1dd74Pk)

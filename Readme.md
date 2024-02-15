@@ -11,7 +11,7 @@
 - [```Установка Apparmor```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Apparmor)  
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
-- [```Calculate cl-install```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Calculate-cl-install)  
+- [```VoidLinux Wayland WM```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-Wayland-WM)  
 
 ## DEFAULT SOFT CONFIG RUS:
 * [WAYFIRE](https://gitlab.com/prolinux410/owl_dots/-/blob/main/_soft%20config_/wayfire.ini)

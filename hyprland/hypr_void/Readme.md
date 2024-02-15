@@ -81,7 +81,7 @@ sudo xbps-install -S micro ranger neofetch cava cmus htop grim firefox telegram-
 - [```Установка Apparmor```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Apparmor)  
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
-- [```Установка Hyprland в VoidLinux```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-Hyprland)  
+- [```VoidLinux Wayland WM```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-Wayland-WM)   
   
 ## ВИДЕО
 [![Watch the video](--)](--)
