@@ -84,7 +84,7 @@ sudo xbps-install -S micro ranger neofetch cava cmus htop grim firefox telegram-
 - [```VoidLinux Wayland WM```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-Wayland-WM)   
   
 ## ВИДЕО
-[![Watch the video](--)](--)
+[![Watch the video](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/hypr_void.jpg?ref_type=heads)](https://www.youtube.com/watch?v=sjPQy1jHNrg&lc=UgzOi0hiHg7TdwB3XBZ4AaABAg)
 
 ## ССЫЛКИ
 [<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/git_youtube.png?ref_type=heads" width="100">](https://www.youtube.com/@prolinux2753)
