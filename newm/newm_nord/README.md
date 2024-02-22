@@ -38,10 +38,7 @@ yay newm-git
 git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
-Из ~/owl_dots/newm/newm_nord/.config скопировать все в ~/.config:
-```
-cp -r ~/owl_dots/newm/newm_nord/.config/ ~/.config
-```
+Из ~/owl_dots/newm/newm_nord/.config скопировать все в ~/.config
   
 ## СОФТ КОТОРЫЙ Я СТАВИЛ
 ```

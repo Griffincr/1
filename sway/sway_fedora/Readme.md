@@ -38,9 +38,7 @@ git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
 Из ~/owl_dots/sway/sway_fedora/.config скопировать все в ~/.config
-```
-cp -r ~/owl_dots/sway/sway_fedora/.config/ ~/.config
-```
+  
 Запустить данный sway можно командой sway -c .config/sway/themes/sway_fedora/sway
 
 ## СОФТ КОТОРЫЙ Я СТАВИЛ

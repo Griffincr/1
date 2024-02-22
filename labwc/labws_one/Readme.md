@@ -33,10 +33,7 @@ git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
 Из ~/owl_dots/labwc/labws_one/.config скопировать все в ~/.config
-```
-cp -r ~/owl_dots/labwc/labws_one/.config/ ~/.config
-```
-
+  
 Установка тем, иконок и курсоров:
 ```
 gsettings set org.gnome.desktop.interface icon-theme Fluent-green-dark  

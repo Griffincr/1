@@ -24,11 +24,8 @@
 git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
-Из ~/owl_dots/bspwm/bspwm_city/.config скопировать все в ~/.config:
-```
-cp -r ~/owl_dots/bspwm/bspwm_nord/.config/ ~/.config
-```
-  
+Из ~/owl_dots/bspwm/bspwm_city/.config скопировать все в ~/.config
+
 В ~/.xinitrc прописать:
 ```
 exec sxhkd -c ~/.config/bspwm/themes/bspwm_nord/sxhkd/sxhkdrc &  

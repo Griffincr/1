@@ -43,9 +43,6 @@ git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
 Из ~/owl_dots/openbox/openbox_star_wars/.config скопировать все в ~/.config
-```
-cp -r ~/owl_dots/openbox/openbox_star_wars/.config/ ~/.config
-```
   
 Установить темы и обои при помощи lxappearance и nitrogen или как тебе удобно. Перезагрузится.
 

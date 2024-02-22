@@ -26,10 +26,7 @@
 git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
-Из ~/owl_dots/bspwm/bspwm_everforest/.config скопировать все в ~/.config:
-```
-cp -r ~/owl_dots/bspwm/bspwm_everforest/.config/ ~/.config
-```
+Из ~/owl_dots/bspwm/bspwm_everforest/.config скопировать все в ~/.config
   
 В ~/.xinitrc прописать:
 ```
@@ -55,7 +52,7 @@ sudo xbps-install bspwm sxhkd xorg xinit mesa numlockx alacritty git base-devel 
 |TERMINAL|[Alacritty](https://github.com/alacritty/alacritty)|
 |SHELL|[Fish](https://fishshell.com/)|
 |ICON|[Everforest](https://www.gnome-look.org/p/1695476)|
-|GTK3|[Everforest](https://github.com/sainnhe/everforest)|
+|GTK3|[Everforest](https://github.com/Fausto-Korpsvart/Everforest-GTK-Theme)|
 |CURSORS|[Capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors)|
 |FONT|[JetBrainsMono](https://www.jetbrains.com/lp/mono/)|
 |WALL_1|[Тут](https://sun9-51.userapi.com/impg/qowSPqPVeIPnyfAiM9I9mmeEJ109Nw5sOAVjZQ/X5j3O8-fquU.jpg?size=2560x1440&quality=95&sign=94b80a43be32e84b53e150521eb3aa45&type=album)|

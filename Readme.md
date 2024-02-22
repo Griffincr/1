@@ -12,6 +12,7 @@
 - [```Установка Lutris```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Lutris)  
 - [```Установка Virt-manager```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Virt-Manager)  
 - [```VoidLinux Wayland WM```](https://gitlab.com/prolinux410/owl_dots/-/wikis/VoidLinux-Wayland-WM)  
+- [```PipeWire```](https://gitlab.com/prolinux410/owl_dots/-/wikis/Pipewire)  
 
 ## DEFAULT SOFT CONFIG RUS:
 * [WAYFIRE](https://gitlab.com/prolinux410/owl_dots/-/blob/main/_soft%20config_/wayfire.ini)

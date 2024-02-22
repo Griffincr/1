@@ -24,10 +24,7 @@
 git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
-Из ~/owl_dots/bspwm/bspwm_city/.config скопировать все в ~/.config:  
-```
-cp -r ~/owl_dots/bspwm/bspwm_city/.config/ ~/.config
-```
+Из ~/owl_dots/bspwm/bspwm_city/.config скопировать все в ~/.config
   
 В ~/.xinitrc прописать:  
 ```

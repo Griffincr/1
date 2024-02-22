@@ -35,9 +35,6 @@ git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
 Из ~/owl_dots/openbox/openbox_nature/.config скопировать все в ~/.config
-```
-cp -r ~/owl_dots/openbox/openbox_nature/.config/ ~/.config
-```
   
 Установить темы и обои при помощи lxappearance и nitrogen или как тебе удобно. Перезагрузится.
 Тему иконок я правил, взял тему Delight и прикрутил иконки каталогов из la-capitaine-icon-theme.

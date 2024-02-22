@@ -74,9 +74,7 @@ git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
 Из ~/owl_dots/hyprland/hypr_arch/.config скопировать все в ~/.config
-```
-cp -r ~/owl_dots/hyprland/hypr_arch/.config/ ~/.config
-```
+  
 Установка тем, иконок и курсоров:
 ```
 gsettings set org.gnome.desktop.interface icon-theme breeze-icons-dark  

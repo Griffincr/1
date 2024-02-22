@@ -37,10 +37,7 @@ cp /etc/i3/config ~/.config/i3/config
 git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
-Из ~/owl_dots/i3wm/star_wars/.config скопировать все в ~/.config:
-```
-cp -r ~/owl_dots/i3wm/star_wars/.config/ ~/.config
-```
+Из ~/owl_dots/i3wm/star_wars/.config скопировать все в ~/.config
   
 В ~/.xinitrc прописать:
 ```

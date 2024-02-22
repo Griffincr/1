@@ -25,9 +25,6 @@ git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
 Из ~/owl_dots/bspwm/bspwm_gura/.config скопировать все в ~/.config:
-```
-cp -r ~/owl_dots/bspwm/bspwm_gura/.config/ ~/.config
-```
   
 В ~/.xinitrc прописать:
 ```

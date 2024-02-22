@@ -40,9 +40,7 @@ git clone https://gitlab.com/prolinux410/owl_dots
 ```
   
 Из ~/owl_dots/sway/swayfx_gawr_gura/.config скопировать все в ~/.config
-```
-cp -r ~/owl_dots/sway/swayfx_gawr_gura/.config/ ~/.config
-```
+  
 Запустить данный sway можно командой sway -c .config/sway/themes/swayfx_gawr_gura/sway
 
 ## СОФТ КОТОРЫЙ Я СТАВИЛ
