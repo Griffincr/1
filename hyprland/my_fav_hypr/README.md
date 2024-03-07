@@ -157,7 +157,7 @@ end
 |GTK3|[Flat-Remix-GTK-Grey-Dark](https://www.pling.com/p/1214931)|
 |CURSORS|[Capitaine-cursors-light](https://www.pling.com/p/1148692)|
 |FONT|[JetBrainsMono](https://www.jetbrains.com/lp/mono/)|
-|WALL_1|[Тут](https://sun9-9.userapi.com/impg/gF5bGwzcv4KqVnKGnVYl29hz50QywEESn6I4OQ/Cc_nnp2dbNY.jpg?size=1920x1080&quality=95&sign=bde29ef33d97a2c26fa983084ee7b254&type=album)|
+|WALL_1|[Тут](https://sun9-76.userapi.com/impg/PJ7EuoiyK61fB_Wj5fnsTwE3QtHvPXjXGrKGyA/EbppeOzlVE4.jpg?size=1920x1080&quality=95&sign=6893614dd539cc5b2ded053009f48cf6&type=album)|
   
 ## НАСТРОЙКА СИСТЕМЫ
   
