@@ -153,7 +153,7 @@ end
 |TERMINAL|[Foot](https://codeberg.org/dnkl/foot)|
 |SHELL|[Fish](https://fishshell.com/)|
 |ICON|[Flat-Remix-Black-Dark](https://www.pling.com/p/1012430/)|
-|ICON WOFI|[https://www.pling.com/p/1532276)|
+|ICON WOFI|[Delight](https://www.pling.com/p/1532276)|
 |GTK3|[Flat-Remix-GTK-Grey-Dark](https://www.pling.com/p/1214931)|
 |CURSORS|[Capitaine-cursors-light](https://www.pling.com/p/1148692)|
 |FONT|[JetBrainsMono](https://www.jetbrains.com/lp/mono/)|
