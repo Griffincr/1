@@ -76,8 +76,6 @@ sudo ln -s /usr/share/alsa/alsa.conf.d/99-pipewire-default.conf /etc/alsa/conf.d
 sudo xbps-install xorg-server-xwayland telegram-desktop firefox nemo tumbler foot grim slurp swayimg mpv mypdf
  Waybar wofi nerd-fonts-symbols-ttf fish-shell file-roller blender gimp inkscape ghostscript imlib2-webp
  webp-pixbuf-loader musescore pavucontrol obs obs-plugin-browser-bin cmus cmus-pulseaudio micro swaybg jq
-
-wl-clipboard swaylock
 ```
 ```
 sudo xbps-install void-repo-multilib
