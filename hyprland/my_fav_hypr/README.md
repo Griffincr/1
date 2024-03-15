@@ -76,6 +76,7 @@ sudo ln -s /usr/share/alsa/alsa.conf.d/99-pipewire-default.conf /etc/alsa/conf.d
 sudo xbps-install xorg-server-xwayland telegram-desktop firefox nemo tumbler foot grim slurp swayimg mpv mypdf
  Waybar wofi nerd-fonts-symbols-ttf fish-shell file-roller blender gimp inkscape ghostscript imlib2-webp
  webp-pixbuf-loader musescore pavucontrol obs obs-plugin-browser-bin cmus cmus-pulseaudio micro swaybg jq
+ openjdk21 transmission-gtk
 ```
 ```
 sudo xbps-install void-repo-multilib
@@ -93,7 +94,13 @@ libgcc-32bit libglvnd libglvnd-32bit mesa-vulkan-radeon mesa-vulkan-radeon-32bit
 fluidsynth libunwind Vulkan-Tools Vulkan-Headers
 ```
 ```
-Скачать reaper с оф сайта, распаковать, установить скриптом и .desktop файл в /usr/share/applications
+Скачать reaper с офф сайта, распаковать, установить скриптом и .desktop файл в /usr/share/applications
+```
+```
+Скачать yabridge с офф гита, установить в лутрис, положить каталог с yabridge в ~/.local/share
+ну или куда удобно. Добавить переменную path с путем к дериктории с yabridge:
+
+export PATH="$PATH:$HOME/.local/share/yabridge" в ~/.config/fish/config.fish
 ```
 ```
 sudo xbps-install apparmor
